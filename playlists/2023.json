@@ -1,0 +1,3786 @@
+[
+  {
+    "name": "In Ha Mood",
+    "artist": "Ice Spice",
+    "id": "2Ve66zhx33PYaULBFkRVxj",
+    "added_at": "2023-04-26T01:24:11Z",
+    "added_by": "goobz24",
+    "length_seconds": 129
+  },
+  {
+    "name": "Princess Diana",
+    "artist": "Ice Spice",
+    "id": "4yzDNpEa75MSTypGg7tCAx",
+    "added_at": "2023-04-26T01:24:11Z",
+    "added_by": "goobz24",
+    "length_seconds": 154
+  },
+  {
+    "name": "Gangsta Boo (with Lil Tjay)",
+    "artist": "Ice Spice, Lil Tjay",
+    "id": "6Ntj4LvgVgjlprxD2JyhZS",
+    "added_at": "2023-04-26T01:24:11Z",
+    "added_by": "goobz24",
+    "length_seconds": 159
+  },
+  {
+    "name": "Actin A Smoochie",
+    "artist": "Ice Spice",
+    "id": "0WeLSsezxHPorZQUbArwmM",
+    "added_at": "2023-04-26T01:24:11Z",
+    "added_by": "goobz24",
+    "length_seconds": 133
+  },
+  {
+    "name": "Bikini Bottom",
+    "artist": "Ice Spice",
+    "id": "4RsqpFi9rvEfjtMywsOYkQ",
+    "added_at": "2023-04-26T01:24:11Z",
+    "added_by": "goobz24",
+    "length_seconds": 106
+  },
+  {
+    "name": "Munch (Feelin\u2019 U)",
+    "artist": "Ice Spice",
+    "id": "4A8ts0wUeOYu7y11KAAPil",
+    "added_at": "2023-11-04T01:34:39Z",
+    "added_by": "goobz24",
+    "length_seconds": 104
+  },
+  {
+    "name": "Boy's a liar Pt. 2",
+    "artist": "PinkPantheress, Ice Spice",
+    "id": "6AQbmUe0Qwf5PZnt4HmTXv",
+    "added_at": "2023-04-26T01:24:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 131
+  },
+  {
+    "name": "the BLACK seminole.",
+    "artist": "Lil Yachty",
+    "id": "1rydhdFtKe2CRkiaVb7aGF",
+    "added_at": "2023-04-26T01:24:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 411
+  },
+  {
+    "name": "the ride-",
+    "artist": "Lil Yachty",
+    "id": "04HeNxRRVjcwctfp2K2kMu",
+    "added_at": "2023-04-26T01:24:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 190
+  },
+  {
+    "name": "running out of time",
+    "artist": "Lil Yachty",
+    "id": "7zy7iE31dGO70ShMXghsfj",
+    "added_at": "2023-04-26T01:24:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 269
+  },
+  {
+    "name": "pRETTy",
+    "artist": "Lil Yachty",
+    "id": "6vDyzD9o8aYhR1963oJpkO",
+    "added_at": "2023-04-26T01:24:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 162
+  },
+  {
+    "name": ":(failure(:",
+    "artist": "Lil Yachty",
+    "id": "2SbFVYtBEYQ0JCHf2eiPBT",
+    "added_at": "2023-04-26T01:24:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 167
+  },
+  {
+    "name": "THE zone~",
+    "artist": "Lil Yachty",
+    "id": "2alpVcC9RxRWS1eSMGeAAP",
+    "added_at": "2023-04-26T01:24:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 249
+  },
+  {
+    "name": "WE SAW THE SUN!",
+    "artist": "Lil Yachty",
+    "id": "7FqH4CO8H5j9EXHKTBP7xE",
+    "added_at": "2023-04-26T01:24:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 331
+  },
+  {
+    "name": "drive ME crazy!",
+    "artist": "Lil Yachty",
+    "id": "6luBKkFUt5wTwz7hpLhp12",
+    "added_at": "2023-04-26T01:24:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 229
+  },
+  {
+    "name": "IVE OFFICIALLY LOST ViSiON!!!!",
+    "artist": "Lil Yachty",
+    "id": "4PXuZYWhkyGXQzfSRy2PW1",
+    "added_at": "2023-04-26T01:24:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 322
+  },
+  {
+    "name": "sAy sOMETHINg",
+    "artist": "Lil Yachty",
+    "id": "1G7wqLzQQ3tveTYHcO5uVN",
+    "added_at": "2023-04-26T01:24:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 212
+  },
+  {
+    "name": "paint THE sky",
+    "artist": "Lil Yachty",
+    "id": "2lHMX3XlQgGbawYFtSZ3Si",
+    "added_at": "2023-04-26T01:24:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 185
+  },
+  {
+    "name": "sHouLd i B?",
+    "artist": "Lil Yachty",
+    "id": "5lrorOJfDv5rGUKqLDKqo8",
+    "added_at": "2023-04-26T01:24:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 168
+  },
+  {
+    "name": "The Alchemist.",
+    "artist": "Lil Yachty",
+    "id": "3Hjvju1zzBXkkpUHvHk8Js",
+    "added_at": "2023-04-26T01:24:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 176
+  },
+  {
+    "name": "REACH THE SUNSHINE.",
+    "artist": "Lil Yachty",
+    "id": "0t8YVhiyInlDW9cHtMGhJg",
+    "added_at": "2023-04-26T01:24:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 358
+  },
+  {
+    "name": "Erase You",
+    "artist": "Rebecca Black",
+    "id": "6arK7mjjvqG3cVLJrYVYYW",
+    "added_at": "2023-04-26T01:25:18Z",
+    "added_by": "goobz24",
+    "length_seconds": 197
+  },
+  {
+    "name": "Destroy Me",
+    "artist": "Rebecca Black",
+    "id": "2mlgv5IPl77e37iGFMwNhv",
+    "added_at": "2023-04-26T01:25:18Z",
+    "added_by": "goobz24",
+    "length_seconds": 182
+  },
+  {
+    "name": "Misery Loves Company",
+    "artist": "Rebecca Black",
+    "id": "0dAb1kvcTnQFSEhBiUo1xY",
+    "added_at": "2023-04-26T01:25:18Z",
+    "added_by": "goobz24",
+    "length_seconds": 169
+  },
+  {
+    "name": "Crumbs",
+    "artist": "Rebecca Black",
+    "id": "2k8VCJx0Cx4pq7ZcqGbjBe",
+    "added_at": "2023-04-26T01:25:18Z",
+    "added_by": "goobz24",
+    "length_seconds": 193
+  },
+  {
+    "name": "Doe Eyed",
+    "artist": "Rebecca Black",
+    "id": "6Egg7lLEvmFsMFA8qAqmYw",
+    "added_at": "2023-04-26T01:25:18Z",
+    "added_by": "goobz24",
+    "length_seconds": 155
+  },
+  {
+    "name": "Sick To My Stomach",
+    "artist": "Rebecca Black",
+    "id": "6AF3BaBegL6ROl394Jx0nG",
+    "added_at": "2023-04-26T01:25:18Z",
+    "added_by": "goobz24",
+    "length_seconds": 254
+  },
+  {
+    "name": "What Am I Gonna Do With You",
+    "artist": "Rebecca Black",
+    "id": "6gaOfHXUtvCWc0RgZ1CJsK",
+    "added_at": "2023-04-26T01:25:18Z",
+    "added_by": "goobz24",
+    "length_seconds": 158
+  },
+  {
+    "name": "Cry Hard Enough",
+    "artist": "Rebecca Black",
+    "id": "77yReMBtkDC76g6l9fzKCq",
+    "added_at": "2023-04-26T01:25:18Z",
+    "added_by": "goobz24",
+    "length_seconds": 169
+  },
+  {
+    "name": "Look At You",
+    "artist": "Rebecca Black",
+    "id": "3A85Rb4KqDVh5tycRdu2OH",
+    "added_at": "2023-04-26T01:25:18Z",
+    "added_by": "goobz24",
+    "length_seconds": 164
+  },
+  {
+    "name": "Performer",
+    "artist": "Rebecca Black",
+    "id": "1fajhwklF3pSlWvdaaSWG3",
+    "added_at": "2023-04-26T01:25:18Z",
+    "added_by": "goobz24",
+    "length_seconds": 194
+  },
+  {
+    "name": "This Is Why",
+    "artist": "Paramore",
+    "id": "7HdXRMw14roDx2a0COWk3M",
+    "added_at": "2023-05-19T20:28:05Z",
+    "added_by": "goobz24",
+    "length_seconds": 206
+  },
+  {
+    "name": "The News",
+    "artist": "Paramore",
+    "id": "59RjIhWIpthNpwrlChUvXm",
+    "added_at": "2023-05-19T20:28:05Z",
+    "added_by": "goobz24",
+    "length_seconds": 187
+  },
+  {
+    "name": "Running Out Of Time",
+    "artist": "Paramore",
+    "id": "5NRtdsFFlmyE8qDMgS08PE",
+    "added_at": "2023-05-19T20:28:05Z",
+    "added_by": "goobz24",
+    "length_seconds": 192
+  },
+  {
+    "name": "C\u2019est Comme \u00c7a",
+    "artist": "Paramore",
+    "id": "1Nx7KvCw6D3O0W2HwYg9tq",
+    "added_at": "2023-05-19T20:28:05Z",
+    "added_by": "goobz24",
+    "length_seconds": 149
+  },
+  {
+    "name": "Big Man, Little Dignity",
+    "artist": "Paramore",
+    "id": "2bfOeIn8bQkRr02NNX29tR",
+    "added_at": "2023-05-19T20:28:05Z",
+    "added_by": "goobz24",
+    "length_seconds": 260
+  },
+  {
+    "name": "You First",
+    "artist": "Paramore",
+    "id": "2ZMkAWKrNDXrQuF0N9Q9Xj",
+    "added_at": "2023-05-19T20:28:05Z",
+    "added_by": "goobz24",
+    "length_seconds": 245
+  },
+  {
+    "name": "Figure 8",
+    "artist": "Paramore",
+    "id": "2Jb3hVkRFoiiwXYcELiBfC",
+    "added_at": "2023-05-19T20:28:05Z",
+    "added_by": "goobz24",
+    "length_seconds": 204
+  },
+  {
+    "name": "Liar",
+    "artist": "Paramore",
+    "id": "7EUhSxz4srS8pqh1cENbLB",
+    "added_at": "2023-05-19T20:28:05Z",
+    "added_by": "goobz24",
+    "length_seconds": 261
+  },
+  {
+    "name": "Crave",
+    "artist": "Paramore",
+    "id": "7wYCva1bI1AkHRQoVXhy8F",
+    "added_at": "2023-05-19T20:28:05Z",
+    "added_by": "goobz24",
+    "length_seconds": 235
+  },
+  {
+    "name": "Thick Skull",
+    "artist": "Paramore",
+    "id": "0M2SX26YicKMOAxqtWGPUh",
+    "added_at": "2023-05-19T20:28:05Z",
+    "added_by": "goobz24",
+    "length_seconds": 232
+  },
+  {
+    "name": "Cracker Island (feat. Thundercat)",
+    "artist": "Gorillaz, Thundercat",
+    "id": "4J3I4jpAtNjsclcs99jzeF",
+    "added_at": "2023-04-26T01:25:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 213
+  },
+  {
+    "name": "Oil (feat. Stevie Nicks)",
+    "artist": "Gorillaz, Stevie Nicks",
+    "id": "36MGfjOTOwx1udRX5dDnoJ",
+    "added_at": "2023-04-26T01:25:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 230
+  },
+  {
+    "name": "The Tired Influencer",
+    "artist": "Gorillaz",
+    "id": "1Wld681KIdy5ZosdDb5bfz",
+    "added_at": "2023-04-26T01:25:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 211
+  },
+  {
+    "name": "Silent Running (feat. Adeleye Omotayo)",
+    "artist": "Gorillaz, Adeleye Omotayo",
+    "id": "0ZGWe02EtMpw40QAzOVZD1",
+    "added_at": "2023-04-26T01:25:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 266
+  },
+  {
+    "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+    "artist": "Gorillaz, Tame Impala, Bootie Brown",
+    "id": "60SvhHtwefT0e2G7i7kOH3",
+    "added_at": "2023-04-26T01:25:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 215
+  },
+  {
+    "name": "Baby Queen",
+    "artist": "Gorillaz",
+    "id": "3FwCEB2BNFzWQ9rn4goCXZ",
+    "added_at": "2023-04-26T01:25:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 220
+  },
+  {
+    "name": "Tarantula",
+    "artist": "Gorillaz",
+    "id": "0rnGYYBw32ALUIiuEgwv2c",
+    "added_at": "2023-04-26T01:25:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 211
+  },
+  {
+    "name": "Tormenta (feat. Bad Bunny)",
+    "artist": "Gorillaz, Bad Bunny",
+    "id": "38UYeBLfvpnDSG9GznZdnL",
+    "added_at": "2023-04-26T01:25:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 193
+  },
+  {
+    "name": "Skinny Ape",
+    "artist": "Gorillaz",
+    "id": "67BbnzIuXFd5knDLwB3mkN",
+    "added_at": "2023-04-26T01:25:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 281
+  },
+  {
+    "name": "Possession Island (feat. Beck)",
+    "artist": "Gorillaz, Beck",
+    "id": "0gclZ31Oo7rysAQDg7HguD",
+    "added_at": "2023-04-26T01:25:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 206
+  },
+  {
+    "name": "Yum",
+    "artist": "slowthai",
+    "id": "6srSZ98GEz495b0ejEIVGl",
+    "added_at": "2023-04-26T01:26:02Z",
+    "added_by": "goobz24",
+    "length_seconds": 261
+  },
+  {
+    "name": "Selfish",
+    "artist": "slowthai",
+    "id": "79mYNfvMefhmL5IqRmUnCK",
+    "added_at": "2023-04-26T01:26:02Z",
+    "added_by": "goobz24",
+    "length_seconds": 192
+  },
+  {
+    "name": "Sooner",
+    "artist": "slowthai",
+    "id": "2VKilJaIWvpUswtBiW3GfL",
+    "added_at": "2023-04-26T01:26:02Z",
+    "added_by": "goobz24",
+    "length_seconds": 174
+  },
+  {
+    "name": "Feel Good",
+    "artist": "slowthai",
+    "id": "6JAB3Ip1fJvc0qQjJ72bJa",
+    "added_at": "2023-04-26T01:26:02Z",
+    "added_by": "goobz24",
+    "length_seconds": 124
+  },
+  {
+    "name": "Never Again",
+    "artist": "slowthai",
+    "id": "14skreCVTjGqWOFSe0P09O",
+    "added_at": "2023-04-26T01:26:02Z",
+    "added_by": "goobz24",
+    "length_seconds": 272
+  },
+  {
+    "name": "Fuck It Puppet",
+    "artist": "slowthai",
+    "id": "0LENPJP8ImbFK2BQD039NZ",
+    "added_at": "2023-04-26T01:26:02Z",
+    "added_by": "goobz24",
+    "length_seconds": 73
+  },
+  {
+    "name": "HAPPY",
+    "artist": "slowthai",
+    "id": "0LsWFs0SKG3mqWw8QBoT9y",
+    "added_at": "2023-04-26T01:26:02Z",
+    "added_by": "goobz24",
+    "length_seconds": 182
+  },
+  {
+    "name": "UGLY",
+    "artist": "slowthai",
+    "id": "3LhHEpPAIYn0o4R13FAJ7g",
+    "added_at": "2023-04-26T01:26:02Z",
+    "added_by": "goobz24",
+    "length_seconds": 262
+  },
+  {
+    "name": "Falling",
+    "artist": "slowthai",
+    "id": "2EOZ0kckiYOHzTztbntsPi",
+    "added_at": "2023-04-26T01:26:02Z",
+    "added_by": "goobz24",
+    "length_seconds": 173
+  },
+  {
+    "name": "Wotz Funny",
+    "artist": "slowthai",
+    "id": "151THqWY5Kb1i9Nw9uQr4q",
+    "added_at": "2023-04-26T01:26:02Z",
+    "added_by": "goobz24",
+    "length_seconds": 159
+  },
+  {
+    "name": "Tourniquet",
+    "artist": "slowthai",
+    "id": "5oPXAqiD2pW56kD7Lqjq7D",
+    "added_at": "2023-04-26T01:26:02Z",
+    "added_by": "goobz24",
+    "length_seconds": 227
+  },
+  {
+    "name": "25% Club",
+    "artist": "slowthai",
+    "id": "4vZykV0uKOKCUbvUs9JjAp",
+    "added_at": "2023-04-26T01:26:02Z",
+    "added_by": "goobz24",
+    "length_seconds": 214
+  },
+  {
+    "name": "in My Garden...",
+    "artist": "Kali Uchis",
+    "id": "40xfJg6ZZXr3jRJkxJJZ0O",
+    "added_at": "2023-04-26T01:26:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 25
+  },
+  {
+    "name": "I Wish you Roses",
+    "artist": "Kali Uchis",
+    "id": "35SbrfbaSpGUBX7e5BPega",
+    "added_at": "2023-04-26T01:26:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 219
+  },
+  {
+    "name": "Worth the Wait (feat. Omar Apollo)",
+    "artist": "Kali Uchis, Omar Apollo",
+    "id": "6V91Cctseyb8yz67YQMDw3",
+    "added_at": "2023-04-26T01:26:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 150
+  },
+  {
+    "name": "Love Between...",
+    "artist": "Kali Uchis",
+    "id": "128I36bDgYHU9l2QcgEGcd",
+    "added_at": "2023-04-26T01:26:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 155
+  },
+  {
+    "name": "All Mine",
+    "artist": "Kali Uchis",
+    "id": "6TRjT37UyRUVrGg3gTlIqb",
+    "added_at": "2023-04-26T01:26:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 209
+  },
+  {
+    "name": "Fantasy (feat. Don Toliver)",
+    "artist": "Kali Uchis, Don Toliver",
+    "id": "1dvqHhLNccePPBHq11TW7v",
+    "added_at": "2023-04-26T01:26:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 178
+  },
+  {
+    "name": "Como Te Quiero Yo",
+    "artist": "Kali Uchis",
+    "id": "2VxQqF52M7IPkiLd4XmTNi",
+    "added_at": "2023-04-26T01:26:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 134
+  },
+  {
+    "name": "Hasta Cuando",
+    "artist": "Kali Uchis",
+    "id": "4ipzXe2jmoeN7zm2VMb4eX",
+    "added_at": "2023-04-26T01:26:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 129
+  },
+  {
+    "name": "Endlessly",
+    "artist": "Kali Uchis",
+    "id": "0wzCQjc8JRa39ej1TFkAFt",
+    "added_at": "2023-04-26T01:26:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 155
+  },
+  {
+    "name": "Moral Conscience",
+    "artist": "Kali Uchis",
+    "id": "5lrG8pjDvOJA8MdZB4YcfY",
+    "added_at": "2023-04-26T01:26:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 212
+  },
+  {
+    "name": "Not Too Late (interlude)",
+    "artist": "Kali Uchis",
+    "id": "7oeUBKNIiiYjoasR9pTiu4",
+    "added_at": "2023-04-26T01:26:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 155
+  },
+  {
+    "name": "Blue",
+    "artist": "Kali Uchis",
+    "id": "0PfurdlOZRYJ6pkrvHOkUh",
+    "added_at": "2023-04-26T01:26:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 192
+  },
+  {
+    "name": "Deserve Me (with Summer Walker)",
+    "artist": "Kali Uchis, Summer Walker",
+    "id": "0vQffWKfl0JyRqtdoZINEM",
+    "added_at": "2023-04-26T01:26:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 265
+  },
+  {
+    "name": "Moonlight",
+    "artist": "Kali Uchis",
+    "id": "0JmnkIqdlnUzPaf8sqBRs3",
+    "added_at": "2023-04-26T01:26:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 187
+  },
+  {
+    "name": "Happy Now",
+    "artist": "Kali Uchis",
+    "id": "7xS1vBqvD0Otk09SCpZd8y",
+    "added_at": "2023-04-26T01:26:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 229
+  },
+  {
+    "name": "Dumbest Girl Alive",
+    "artist": "100 gecs",
+    "id": "0qMZXgcLfkl5RI3q50KHMH",
+    "added_at": "2023-04-26T01:26:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 137
+  },
+  {
+    "name": "757",
+    "artist": "100 gecs",
+    "id": "4vwHBxN5OGtUqqUWvWClGd",
+    "added_at": "2023-04-26T01:26:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 126
+  },
+  {
+    "name": "Hollywood Baby",
+    "artist": "100 gecs",
+    "id": "0oigSejhoNen2EdNAIFcm5",
+    "added_at": "2023-04-26T01:26:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 187
+  },
+  {
+    "name": "Frog On The Floor",
+    "artist": "100 gecs",
+    "id": "6yOeP45D6bNbtQgD3ssQfL",
+    "added_at": "2023-04-26T01:26:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 161
+  },
+  {
+    "name": "Doritos & Fritos",
+    "artist": "100 gecs",
+    "id": "1jPPKYq1s1HhIjAiqrnRR8",
+    "added_at": "2023-04-26T01:26:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 196
+  },
+  {
+    "name": "Billy Knows Jamie",
+    "artist": "100 gecs",
+    "id": "6fXeuZAQ00BjrOxFtoFS9S",
+    "added_at": "2023-04-26T01:26:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 163
+  },
+  {
+    "name": "One Million Dollars",
+    "artist": "100 gecs",
+    "id": "3Cqt1Sg1FYBpUzoXEzf4dD",
+    "added_at": "2023-04-26T01:26:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 120
+  },
+  {
+    "name": "The Most Wanted Person In The United States",
+    "artist": "100 gecs",
+    "id": "3txrp0QdO0wiF4yqiofzJv",
+    "added_at": "2023-04-26T01:26:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 155
+  },
+  {
+    "name": "I Got My Tooth Removed",
+    "artist": "100 gecs",
+    "id": "7orhZ6CRv5wNES2AEF3qdp",
+    "added_at": "2023-04-26T01:26:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 197
+  },
+  {
+    "name": "mememe",
+    "artist": "100 gecs",
+    "id": "39Pudjd7JS8NosYN24m7Hc",
+    "added_at": "2023-04-26T01:26:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 166
+  },
+  {
+    "name": "A Change Is Gonna Come",
+    "artist": "T-Pain",
+    "id": "6lbXUz3ysZWYSbBFGiPgXJ",
+    "added_at": "2023-04-26T01:27:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 222
+  },
+  {
+    "name": "Don't Stop Believin'",
+    "artist": "T-Pain",
+    "id": "0GOpWJfGIjrFZcJUu6RaEh",
+    "added_at": "2023-04-26T01:27:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 222
+  },
+  {
+    "name": "Sharing The Night Together",
+    "artist": "T-Pain",
+    "id": "4A17tKfOkivorJioAMC4ZT",
+    "added_at": "2023-04-26T01:27:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 205
+  },
+  {
+    "name": "Skrangs (in K Major Sus)",
+    "artist": "T-Pain",
+    "id": "65IQMfpyTrP0OH86OBwrri",
+    "added_at": "2023-04-26T01:27:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 167
+  },
+  {
+    "name": "Stay With Me",
+    "artist": "T-Pain",
+    "id": "3oRnTSOCewPyTOwunpXFZo",
+    "added_at": "2023-04-26T01:27:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 177
+  },
+  {
+    "name": "Tennessee Whiskey",
+    "artist": "T-Pain",
+    "id": "6z6FvcBdkQGuYuD5zgj6up",
+    "added_at": "2023-04-26T01:27:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 314
+  },
+  {
+    "name": "That's Life (feat. NandoSTL)",
+    "artist": "T-Pain, NandoSTL",
+    "id": "6xaTAKDm9BCxBcHGZxQncL",
+    "added_at": "2023-04-26T01:27:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 258
+  },
+  {
+    "name": "War Pigs",
+    "artist": "T-Pain",
+    "id": "5YZXVNIzaJquPCaSCePq98",
+    "added_at": "2023-04-26T01:27:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 379
+  },
+  {
+    "name": "Lean Beef Patty",
+    "artist": "JPEGMAFIA, Danny Brown",
+    "id": "3FsqOTQT3d7c296eStnEnl",
+    "added_at": "2023-04-26T01:27:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 107
+  },
+  {
+    "name": "Steppa Pig",
+    "artist": "JPEGMAFIA, Danny Brown",
+    "id": "0LLKhrm54tp36K2MbgBfAA",
+    "added_at": "2023-04-26T01:27:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 207
+  },
+  {
+    "name": "SCARING THE HOES",
+    "artist": "JPEGMAFIA, Danny Brown",
+    "id": "1waqS2zPI3Z1zTvJOa2hVC",
+    "added_at": "2023-04-26T01:27:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 142
+  },
+  {
+    "name": "Garbage Pale Kids",
+    "artist": "JPEGMAFIA, Danny Brown",
+    "id": "73pz1RTwUBpKO286c9zhzT",
+    "added_at": "2023-04-26T01:27:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 168
+  },
+  {
+    "name": "Fentanyl Tester",
+    "artist": "JPEGMAFIA, Danny Brown",
+    "id": "4pfhCrRk6P2tMU2D0Mb2z5",
+    "added_at": "2023-04-26T01:27:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 157
+  },
+  {
+    "name": "Burfict!",
+    "artist": "JPEGMAFIA, Danny Brown",
+    "id": "5IZpEuLMO5lEmN1Rr008p8",
+    "added_at": "2023-04-26T01:27:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 141
+  },
+  {
+    "name": "Shut Yo Bitch Ass Up / Muddy Waters",
+    "artist": "JPEGMAFIA, Danny Brown",
+    "id": "2eZuFG3KSALN1BowCuSB1A",
+    "added_at": "2023-04-26T01:27:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 174
+  },
+  {
+    "name": "Orange Juice Jones",
+    "artist": "JPEGMAFIA, Danny Brown",
+    "id": "6kRjMNfcKqzZIM46JiIEgZ",
+    "added_at": "2023-04-26T01:27:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 141
+  },
+  {
+    "name": "Kingdom Hearts Key (ft. redveil)",
+    "artist": "JPEGMAFIA, Danny Brown, redveil",
+    "id": "0VA5FzFlysCcSG1IdOkhUb",
+    "added_at": "2023-04-26T01:27:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 205
+  },
+  {
+    "name": "God Loves You",
+    "artist": "JPEGMAFIA, Danny Brown",
+    "id": "7y2EELtWhCaDU9A0vOYVHv",
+    "added_at": "2023-04-26T01:27:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 148
+  },
+  {
+    "name": "Run The Jewels",
+    "artist": "JPEGMAFIA, Danny Brown",
+    "id": "7JsFf2NOZ6F8gQzKtMytsJ",
+    "added_at": "2023-04-26T01:27:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 64
+  },
+  {
+    "name": "Jack Harlow Combo Meal",
+    "artist": "JPEGMAFIA, Danny Brown",
+    "id": "3nYRRPC3un32wq7bbHDitX",
+    "added_at": "2023-04-26T01:27:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 138
+  },
+  {
+    "name": "HOE (Heaven on Earth)",
+    "artist": "JPEGMAFIA, Danny Brown",
+    "id": "4vL0V5MjU3Y1syYtajWW4f",
+    "added_at": "2023-04-26T01:27:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 203
+  },
+  {
+    "name": "Where Ya Get Ya Coke From?",
+    "artist": "JPEGMAFIA, Danny Brown",
+    "id": "6XITRM4V1hVSQXw62diAoj",
+    "added_at": "2023-04-26T01:27:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 177
+  },
+  {
+    "name": "Without You Without Them",
+    "artist": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+    "id": "12EkF8uGofptstVIX7Oc0C",
+    "added_at": "2023-04-26T01:33:15Z",
+    "added_by": "goobz24",
+    "length_seconds": 81
+  },
+  {
+    "name": "$20",
+    "artist": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+    "id": "38xXr3MkiKNzNDv4JDJagF",
+    "added_at": "2023-04-26T01:33:15Z",
+    "added_by": "goobz24",
+    "length_seconds": 200
+  },
+  {
+    "name": "Emily I'm Sorry",
+    "artist": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+    "id": "693xmBAOD4xwkS4W71W1Jn",
+    "added_at": "2023-04-26T01:33:15Z",
+    "added_by": "goobz24",
+    "length_seconds": 214
+  },
+  {
+    "name": "True Blue",
+    "artist": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+    "id": "48Qes8IUekSZpcNDQgYzUX",
+    "added_at": "2023-04-26T01:33:15Z",
+    "added_by": "goobz24",
+    "length_seconds": 296
+  },
+  {
+    "name": "Cool About It",
+    "artist": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+    "id": "5PJH1U5Iie893v48Fl9yaC",
+    "added_at": "2023-04-26T01:33:15Z",
+    "added_by": "goobz24",
+    "length_seconds": 180
+  },
+  {
+    "name": "Not Strong Enough",
+    "artist": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+    "id": "09DR0sHnQUhHOiSNttc1mv",
+    "added_at": "2023-04-26T01:33:15Z",
+    "added_by": "goobz24",
+    "length_seconds": 234
+  },
+  {
+    "name": "Revolution 0",
+    "artist": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+    "id": "0FUGzUqkqRktGBvIeM3p2X",
+    "added_at": "2023-04-26T01:33:15Z",
+    "added_by": "goobz24",
+    "length_seconds": 257
+  },
+  {
+    "name": "Leonard Cohen",
+    "artist": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+    "id": "3wdrHVkaD700qA8P3OjmYR",
+    "added_at": "2023-04-26T01:33:15Z",
+    "added_by": "goobz24",
+    "length_seconds": 102
+  },
+  {
+    "name": "Satanist",
+    "artist": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+    "id": "4QEsxFZRA3RnjQAPYS3UXa",
+    "added_at": "2023-04-26T01:33:15Z",
+    "added_by": "goobz24",
+    "length_seconds": 290
+  },
+  {
+    "name": "We're In Love",
+    "artist": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+    "id": "5eoy62yFNJAli6AyKK5qnH",
+    "added_at": "2023-04-26T01:33:15Z",
+    "added_by": "goobz24",
+    "length_seconds": 294
+  },
+  {
+    "name": "Anti-Curse",
+    "artist": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+    "id": "4LOg3dKvCAJiF9NYC7YqzG",
+    "added_at": "2023-04-26T01:33:15Z",
+    "added_by": "goobz24",
+    "length_seconds": 198
+  },
+  {
+    "name": "Letter To An Old Poet",
+    "artist": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+    "id": "1zShh2S3moxyqU6u6fJZVQ",
+    "added_at": "2023-04-26T01:33:15Z",
+    "added_by": "goobz24",
+    "length_seconds": 187
+  },
+  {
+    "name": "EVERYTHING MUST GO",
+    "artist": "Tyler, The Creator",
+    "id": "1Zcr6QZLrQVCriqBoJdqja",
+    "added_at": "2023-04-26T01:28:10Z",
+    "added_by": "goobz24",
+    "length_seconds": 28
+  },
+  {
+    "name": "STUNTMAN (feat. Vince Staples)",
+    "artist": "Tyler, The Creator, Vince Staples",
+    "id": "6S4WM9LW6oGkAtBFePffh2",
+    "added_at": "2023-04-26T01:28:10Z",
+    "added_by": "goobz24",
+    "length_seconds": 199
+  },
+  {
+    "name": "WHAT A DAY",
+    "artist": "Tyler, The Creator",
+    "id": "3v3gyQkwRQGwDUZ7V2q2lF",
+    "added_at": "2023-04-26T01:28:10Z",
+    "added_by": "goobz24",
+    "length_seconds": 216
+  },
+  {
+    "name": "WHARF TALK (feat. A$AP Rocky)",
+    "artist": "Tyler, The Creator, A$AP Rocky",
+    "id": "3u9PAti8muEXXvEjeFpQK0",
+    "added_at": "2023-04-26T01:28:10Z",
+    "added_by": "goobz24",
+    "length_seconds": 204
+  },
+  {
+    "name": "DOGTOOTH",
+    "artist": "Tyler, The Creator",
+    "id": "6OfOzTitafSnsaunQLuNFw",
+    "added_at": "2023-04-26T01:28:10Z",
+    "added_by": "goobz24",
+    "length_seconds": 161
+  },
+  {
+    "name": "HEAVEN TO ME",
+    "artist": "Tyler, The Creator",
+    "id": "4Z1ZlABSKDlVByJL3y5OVs",
+    "added_at": "2023-04-26T01:28:10Z",
+    "added_by": "goobz24",
+    "length_seconds": 230
+  },
+  {
+    "name": "BOYFRIEND, GIRLFRIEND (2020 Demo) (feat. YG)",
+    "artist": "Tyler, The Creator, YG",
+    "id": "2sFEmuVVAa2klHwhFaT0rR",
+    "added_at": "2023-04-26T01:28:10Z",
+    "added_by": "goobz24",
+    "length_seconds": 204
+  },
+  {
+    "name": "SORRY NOT SORRY",
+    "artist": "Tyler, The Creator",
+    "id": "410ZZP746AQeiywhKvXWCo",
+    "added_at": "2023-04-26T01:28:10Z",
+    "added_by": "goobz24",
+    "length_seconds": 206
+  },
+  {
+    "name": "Intro",
+    "artist": "Daughter",
+    "id": "5YrMulUEHy0nwgLlqD9g3w",
+    "added_at": "2023-04-26T01:28:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 55
+  },
+  {
+    "name": "Be On Your Way",
+    "artist": "Daughter",
+    "id": "2LadlqFWLPRJAQu3PEe9CN",
+    "added_at": "2023-04-26T01:28:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 244
+  },
+  {
+    "name": "Party",
+    "artist": "Daughter",
+    "id": "2tLLgIhHr3AFv0etCbjth2",
+    "added_at": "2023-04-26T01:28:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 267
+  },
+  {
+    "name": "Dandelion",
+    "artist": "Daughter",
+    "id": "0FaTDETtzCRxYIf3noMnsF",
+    "added_at": "2023-04-26T01:28:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 231
+  },
+  {
+    "name": "Neptune",
+    "artist": "Daughter",
+    "id": "0Gqw2VCa5wtCibC22niG39",
+    "added_at": "2023-04-26T01:28:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 325
+  },
+  {
+    "name": "Swim Back",
+    "artist": "Daughter",
+    "id": "0SB7Ew45h690xWhmWvWixm",
+    "added_at": "2023-04-26T01:28:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 274
+  },
+  {
+    "name": "Junkmail",
+    "artist": "Daughter",
+    "id": "7nu25XWqnLNRnqf8UGS10s",
+    "added_at": "2023-04-26T01:28:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 245
+  },
+  {
+    "name": "Future Lover",
+    "artist": "Daughter",
+    "id": "14iMoEpgyNjJ3y7bYJ9TTG",
+    "added_at": "2023-04-26T01:28:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 253
+  },
+  {
+    "name": "(Missed Calls)",
+    "artist": "Daughter",
+    "id": "2fgMcXCUP0yf2pXOAmYXRB",
+    "added_at": "2023-04-26T01:28:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 103
+  },
+  {
+    "name": "Isolation",
+    "artist": "Daughter",
+    "id": "3LKSRV0wMzYTnuGJvwLYrs",
+    "added_at": "2023-04-26T01:28:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 157
+  },
+  {
+    "name": "To Rage",
+    "artist": "Daughter",
+    "id": "3yYPoZq0fsQ6d5iLvraz72",
+    "added_at": "2023-04-26T01:28:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 285
+  },
+  {
+    "name": "Wish I Could Cross the Sea",
+    "artist": "Daughter",
+    "id": "2cbnub8j1WFuUVmLOY56AQ",
+    "added_at": "2023-04-26T01:28:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 218
+  },
+  {
+    "name": "No More Lies",
+    "artist": "Thundercat, Tame Impala",
+    "id": "62tGzw9OJOwDcjPBnMPCuj",
+    "added_at": "2023-05-06T15:02:30Z",
+    "added_by": "goobz24",
+    "length_seconds": 327
+  },
+  {
+    "name": "Horizon Ouverture",
+    "artist": "Daft Punk",
+    "id": "1kOPoZDgQean1ecxJT0GIT",
+    "added_at": "2023-05-19T20:24:57Z",
+    "added_by": "goobz24",
+    "length_seconds": 127
+  },
+  {
+    "name": "Horizon (Japan CD)",
+    "artist": "Daft Punk",
+    "id": "6iZRqJjpbOVEv4mFTpqg1d",
+    "added_at": "2023-05-19T20:24:57Z",
+    "added_by": "goobz24",
+    "length_seconds": 262
+  },
+  {
+    "name": "GLBTM (Studio Outtakes)",
+    "artist": "Daft Punk",
+    "id": "6QxktTtoOGxB8vrD7LQjm5",
+    "added_at": "2023-05-19T20:24:57Z",
+    "added_by": "goobz24",
+    "length_seconds": 381
+  },
+  {
+    "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
+    "artist": "Daft Punk, Julian Casablancas, The Voidz",
+    "id": "4r4fX4NZIqVIhGyDvERp0l",
+    "added_at": "2023-05-19T20:24:57Z",
+    "added_by": "goobz24",
+    "length_seconds": 239
+  },
+  {
+    "name": "GL (Early Take) [feat. Pharrell Williams and Nile Rodgers]",
+    "artist": "Daft Punk, Pharrell Williams, Nile Rodgers",
+    "id": "4v1pwKLYGnW6RMLzdp3x4k",
+    "added_at": "2023-05-19T20:24:57Z",
+    "added_by": "goobz24",
+    "length_seconds": 32
+  },
+  {
+    "name": "Prime (2012 Unfinished)",
+    "artist": "Daft Punk",
+    "id": "1iAsoOFV16Ax6OFKMq8sld",
+    "added_at": "2023-05-19T20:24:57Z",
+    "added_by": "goobz24",
+    "length_seconds": 286
+  },
+  {
+    "name": "LYTD (Vocoder Tests) [feat. Pharrell Williams]",
+    "artist": "Daft Punk, Pharrell Williams",
+    "id": "3PgYTZHsdWp4C21bQ8zxvM",
+    "added_at": "2023-05-19T20:24:57Z",
+    "added_by": "goobz24",
+    "length_seconds": 128
+  },
+  {
+    "name": "The Writing of Fragments of Time (feat. Todd Edwards)",
+    "artist": "Daft Punk, Todd Edwards",
+    "id": "6JiQWzHFGbnW9aY3yUHO4b",
+    "added_at": "2023-05-19T20:24:57Z",
+    "added_by": "goobz24",
+    "length_seconds": 497
+  },
+  {
+    "name": "Touch (2021 Epilogue) [feat. Paul Williams]",
+    "artist": "Daft Punk, Paul Williams",
+    "id": "7oMbGRDGVDIb6ZeVcq7LfW",
+    "added_at": "2023-05-19T20:24:57Z",
+    "added_by": "goobz24",
+    "length_seconds": 179
+  },
+  {
+    "name": "Who He Iz",
+    "artist": "KAYTRAMIN\u00c9, Amin\u00e9, KAYTRANADA",
+    "id": "02nhDSWvcXYALyVkth2oXd",
+    "added_at": "2023-05-19T20:25:19Z",
+    "added_by": "goobz24",
+    "length_seconds": 181
+  },
+  {
+    "name": "letstalkaboutit",
+    "artist": "KAYTRAMIN\u00c9, Amin\u00e9, KAYTRANADA, Freddie Gibbs",
+    "id": "0Z4oNNgJKK9VcuSw1L5Cb4",
+    "added_at": "2023-05-19T20:25:19Z",
+    "added_by": "goobz24",
+    "length_seconds": 166
+  },
+  {
+    "name": "4EVA",
+    "artist": "KAYTRAMIN\u00c9, Amin\u00e9, KAYTRANADA, Pharrell Williams",
+    "id": "2sUImfbz5cpAW50SiQla4h",
+    "added_at": "2023-05-19T20:25:19Z",
+    "added_by": "goobz24",
+    "length_seconds": 190
+  },
+  {
+    "name": "Westside",
+    "artist": "KAYTRAMIN\u00c9, Amin\u00e9, KAYTRANADA",
+    "id": "4KZytfFyq6cFObYt40KQmj",
+    "added_at": "2023-05-19T20:25:19Z",
+    "added_by": "goobz24",
+    "length_seconds": 144
+  },
+  {
+    "name": "Master P",
+    "artist": "KAYTRAMIN\u00c9, Amin\u00e9, KAYTRANADA, Big Sean",
+    "id": "6tEpOijHrGLidCtHeoMhlC",
+    "added_at": "2023-05-19T20:25:19Z",
+    "added_by": "goobz24",
+    "length_seconds": 212
+  },
+  {
+    "name": "Rebuke",
+    "artist": "KAYTRAMIN\u00c9, Amin\u00e9, KAYTRANADA",
+    "id": "4doxCAkqckpGTasPN6ByUu",
+    "added_at": "2023-05-19T20:25:19Z",
+    "added_by": "goobz24",
+    "length_seconds": 118
+  },
+  {
+    "name": "Sossaup",
+    "artist": "KAYTRAMIN\u00c9, Amin\u00e9, KAYTRANADA, Amaarae",
+    "id": "6y5UMIVVJDsULZwfZ0bNRX",
+    "added_at": "2023-05-19T20:25:19Z",
+    "added_by": "goobz24",
+    "length_seconds": 156
+  },
+  {
+    "name": "STFU3",
+    "artist": "KAYTRAMIN\u00c9, Amin\u00e9, KAYTRANADA",
+    "id": "4yhDEazA79jDuJkRp1oVlS",
+    "added_at": "2023-05-19T20:25:19Z",
+    "added_by": "goobz24",
+    "length_seconds": 140
+  },
+  {
+    "name": "UGH UGH",
+    "artist": "KAYTRAMIN\u00c9, Amin\u00e9, KAYTRANADA",
+    "id": "2eruQnjO91iZFeneO7gh1y",
+    "added_at": "2023-05-19T20:25:19Z",
+    "added_by": "goobz24",
+    "length_seconds": 250
+  },
+  {
+    "name": "EYE",
+    "artist": "KAYTRAMIN\u00c9, Amin\u00e9, KAYTRANADA, Snoop Dogg",
+    "id": "4jbNm7D0YvHMS1MZ6hJaOf",
+    "added_at": "2023-05-19T20:25:19Z",
+    "added_by": "goobz24",
+    "length_seconds": 160
+  },
+  {
+    "name": "K&A",
+    "artist": "KAYTRAMIN\u00c9, Amin\u00e9, KAYTRANADA",
+    "id": "4FyH1gsB85ivmvFtkvxgir",
+    "added_at": "2023-05-19T20:25:19Z",
+    "added_by": "goobz24",
+    "length_seconds": 304
+  },
+  {
+    "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+    "artist": "Beyonc\u00e9, Kendrick Lamar",
+    "id": "5xlLG6RthtyXShVhGA3ojN",
+    "added_at": "2023-05-20T02:42:16Z",
+    "added_by": "goobz24",
+    "length_seconds": 260
+  },
+  {
+    "name": "Float (feat. Seun Kuti & Egypt 80)",
+    "artist": "Janelle Mon\u00e1e, Seun Kuti, Egypt 80",
+    "id": "2GLN3KJjmFhXG8mHGr6II0",
+    "added_at": "2023-07-08T21:38:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 239
+  },
+  {
+    "name": "Champagne Shit",
+    "artist": "Janelle Mon\u00e1e",
+    "id": "5OhG7shUD0xgQMirbRAipe",
+    "added_at": "2023-07-08T21:38:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 143
+  },
+  {
+    "name": "Black Sugar Beach",
+    "artist": "Janelle Mon\u00e1e",
+    "id": "7zfwu17M0wg5QcdhboiDUv",
+    "added_at": "2023-07-08T21:38:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 65
+  },
+  {
+    "name": "Phenomenal (feat. Doechii)",
+    "artist": "Janelle Mon\u00e1e, Doechii",
+    "id": "5iDrSIUAbuajDctFTGRRiR",
+    "added_at": "2023-07-08T21:38:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 217
+  },
+  {
+    "name": "Haute",
+    "artist": "Janelle Mon\u00e1e",
+    "id": "1C9Ws8tfcCcdLk06buoiSU",
+    "added_at": "2023-07-08T21:38:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 96
+  },
+  {
+    "name": "Oooh La La (feat. Grace Jones)",
+    "artist": "Janelle Mon\u00e1e, Grace Jones",
+    "id": "6RJQbdFHpfszZE3cakzu5w",
+    "added_at": "2023-07-08T21:38:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 35
+  },
+  {
+    "name": "Lipstick Lover",
+    "artist": "Janelle Mon\u00e1e",
+    "id": "0zBVnui5j6g5lDEfPpbobx",
+    "added_at": "2023-07-08T21:38:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 169
+  },
+  {
+    "name": "The Rush (feat. Nia Long & Amaarae)",
+    "artist": "Janelle Mon\u00e1e, Amaarae, Nia Long",
+    "id": "7yLA0kPEYxI4ZEYuBwFecQ",
+    "added_at": "2023-07-08T21:38:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 163
+  },
+  {
+    "name": "The French 75 (feat. Sister Nancy)",
+    "artist": "Janelle Mon\u00e1e, Sister Nancy",
+    "id": "0AdvsibPoeV1T0ZfdSLwYf",
+    "added_at": "2023-07-08T21:38:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 69
+  },
+  {
+    "name": "Water Slide",
+    "artist": "Janelle Mon\u00e1e",
+    "id": "3PlQ7nKvyX9Da10AsYBm7c",
+    "added_at": "2023-07-08T21:38:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 164
+  },
+  {
+    "name": "Know Better (feat. CKay, Seun Kuti & Egypt 80)",
+    "artist": "Janelle Mon\u00e1e, CKay, Seun Kuti, Egypt 80",
+    "id": "0pSIOwm8Jz5iMj3nR2rllq",
+    "added_at": "2023-07-08T21:38:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 169
+  },
+  {
+    "name": "Paid In Pleasure",
+    "artist": "Janelle Mon\u00e1e",
+    "id": "0wkYibs7oR46Tq1k7sIQLu",
+    "added_at": "2023-07-08T21:38:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 106
+  },
+  {
+    "name": "Only Have Eyes 42",
+    "artist": "Janelle Mon\u00e1e",
+    "id": "6kIgzGx7gH0qAKTFTF5GsU",
+    "added_at": "2023-07-08T21:38:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 170
+  },
+  {
+    "name": "A Dry Red",
+    "artist": "Janelle Mon\u00e1e",
+    "id": "19qOBvMlNfzSFutnPzq3Jf",
+    "added_at": "2023-07-08T21:38:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 111
+  },
+  {
+    "name": "DOWN BY LAW",
+    "artist": "Killer Mike, CeeLo Green",
+    "id": "6KlvybbokGa63tRS4J3Uqh",
+    "added_at": "2023-07-08T21:38:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 211
+  },
+  {
+    "name": "SHED TEARS (feat. Lena Bird Myles)",
+    "artist": "Killer Mike, Mozzy, Lena Byrd-Miles",
+    "id": "6dqsNpjxt7mLDjhBjtEK0i",
+    "added_at": "2023-07-08T21:38:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 289
+  },
+  {
+    "name": "RUN (feat. Young Thug)",
+    "artist": "Killer Mike, Young Thug",
+    "id": "4EPfeopXB7rDQGR4ae0Xmt",
+    "added_at": "2023-07-08T21:38:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 285
+  },
+  {
+    "name": "NRICH (feat. 6LACK, Eryn Allen Kane)",
+    "artist": "Killer Mike, 6LACK, Eryn Allen Kane",
+    "id": "0fWtHLKX2LsgOfImCyu94h",
+    "added_at": "2023-07-08T21:38:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 280
+  },
+  {
+    "name": "TALK'N THAT SHIT!",
+    "artist": "Killer Mike",
+    "id": "7BFp1EFXdckn3ERagdyHBG",
+    "added_at": "2023-07-08T21:38:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 174
+  },
+  {
+    "name": "SLUMMER",
+    "artist": "Killer Mike, Jagged Edge",
+    "id": "17K5opp9TO1OANv36IWsCh",
+    "added_at": "2023-07-08T21:38:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 275
+  },
+  {
+    "name": "SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane)",
+    "artist": "Killer Mike, Andr\u00e9 3000, Eryn Allen Kane, Future",
+    "id": "1UsPflAuWTNteFUPJAJe8E",
+    "added_at": "2023-07-08T21:38:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 253
+  },
+  {
+    "name": "TWO DAYS",
+    "artist": "Killer Mike, Ty Dolla $ign",
+    "id": "4ctB5Ns5kSzqp9c4b4XO1R",
+    "added_at": "2023-07-08T21:38:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 134
+  },
+  {
+    "name": "SPACESHIP VIEWS",
+    "artist": "Killer Mike, Curren$y, 2 Chainz, Kaash Paige",
+    "id": "2Yu8MFsFUBXid4qUXVa4fK",
+    "added_at": "2023-07-08T21:38:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 192
+  },
+  {
+    "name": "EXIT 9",
+    "artist": "Killer Mike, Blxst",
+    "id": "2JsSL8GJDBDZB46TmLBv2J",
+    "added_at": "2023-07-08T21:38:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 162
+  },
+  {
+    "name": "SOMETHING FOR JUNKIES",
+    "artist": "Killer Mike, Fabo",
+    "id": "7rxSBDMo5Lc1D0Bpn4unHW",
+    "added_at": "2023-07-08T21:38:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 278
+  },
+  {
+    "name": "MOTHERLESS",
+    "artist": "Killer Mike, Eryn Allen Kane",
+    "id": "6bgwZ8k3UMqSfA7lj1vPqU",
+    "added_at": "2023-07-08T21:38:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 233
+  },
+  {
+    "name": "DON'T LET THE DEVIL (feat. thankugoodsir)",
+    "artist": "Killer Mike, El-P, thankugoodsir",
+    "id": "1f7eBRPgFfKPhqMU7z31yF",
+    "added_at": "2023-07-08T21:38:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 165
+  },
+  {
+    "name": "HIGH & HOLY",
+    "artist": "Killer Mike, Ty Dolla $ign",
+    "id": "2h9FT0UAaAbrx3T8MHzwwd",
+    "added_at": "2023-07-08T21:38:38Z",
+    "added_by": "goobz24",
+    "length_seconds": 293
+  },
+  {
+    "name": "Motor Spirit",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "4HAkFNSjf5edeuY839m1RD",
+    "added_at": "2023-07-08T21:38:54Z",
+    "added_by": "goobz24",
+    "length_seconds": 512
+  },
+  {
+    "name": "Supercell",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "0gGr4hnPoYgOq7ccAh148N",
+    "added_at": "2023-07-08T21:38:54Z",
+    "added_by": "goobz24",
+    "length_seconds": 305
+  },
+  {
+    "name": "Converge",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "00p8kaZMs7umxsVrBqarlt",
+    "added_at": "2023-07-08T21:38:54Z",
+    "added_by": "goobz24",
+    "length_seconds": 376
+  },
+  {
+    "name": "Witchcraft",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "0mQU3EuOIqMpRg4qbXDxda",
+    "added_at": "2023-07-08T21:38:54Z",
+    "added_by": "goobz24",
+    "length_seconds": 303
+  },
+  {
+    "name": "Gila Monster",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "3M48swVS1NBX5V4SLESekp",
+    "added_at": "2023-07-08T21:38:54Z",
+    "added_by": "goobz24",
+    "length_seconds": 275
+  },
+  {
+    "name": "Dragon",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "4A003vQ5hw24V0WajOageQ",
+    "added_at": "2023-07-08T21:38:54Z",
+    "added_by": "goobz24",
+    "length_seconds": 584
+  },
+  {
+    "name": "Flamethrower",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "5XkNUvzFQUCBu39tWRVO15",
+    "added_at": "2023-07-08T21:38:54Z",
+    "added_by": "goobz24",
+    "length_seconds": 561
+  },
+  {
+    "name": "HYAENA",
+    "artist": "Travis Scott",
+    "id": "0hL9gOw6XBWsygEUcVjxEc",
+    "added_at": "2023-10-30T14:52:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 222
+  },
+  {
+    "name": "THANK GOD",
+    "artist": "Travis Scott",
+    "id": "1PH2MDbcBAU094DlgTIND1",
+    "added_at": "2023-10-30T14:52:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 184
+  },
+  {
+    "name": "MODERN JAM (feat. Teezo Touchdown)",
+    "artist": "Travis Scott, Teezo Touchdown",
+    "id": "3KCNiDi9Pza6ZD8FggNoaw",
+    "added_at": "2023-10-30T14:52:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 255
+  },
+  {
+    "name": "MY EYES",
+    "artist": "Travis Scott",
+    "id": "4kjI1gwQZRKNDkw1nI475M",
+    "added_at": "2023-10-30T14:52:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 251
+  },
+  {
+    "name": "GOD'S COUNTRY",
+    "artist": "Travis Scott",
+    "id": "04WxWo7XeVyx22xEsrWRUb",
+    "added_at": "2023-10-30T14:52:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 127
+  },
+  {
+    "name": "SIRENS",
+    "artist": "Travis Scott",
+    "id": "7LSpFCvRZZot2AlmkUzy9k",
+    "added_at": "2023-10-30T14:52:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 204
+  },
+  {
+    "name": "MELTDOWN (feat. Drake)",
+    "artist": "Travis Scott, Drake",
+    "id": "67nepsnrcZkowTxMWigSbb",
+    "added_at": "2023-10-30T14:52:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 246
+  },
+  {
+    "name": "FE!N (feat. Playboi Carti)",
+    "artist": "Travis Scott, Playboi Carti",
+    "id": "42VsgItocQwOQC3XWZ8JNA",
+    "added_at": "2023-10-30T14:52:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 191
+  },
+  {
+    "name": "DELRESTO (ECHOES) (feat. Beyonc\u00e9)",
+    "artist": "Travis Scott, Beyonc\u00e9",
+    "id": "0OEe83mMZ5kaNw5uZQ7ilG",
+    "added_at": "2023-10-30T14:52:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 274
+  },
+  {
+    "name": "I KNOW ?",
+    "artist": "Travis Scott",
+    "id": "6wsqVwoiVH2kde4k4KKAFU",
+    "added_at": "2023-10-30T14:52:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 211
+  },
+  {
+    "name": "TOPIA TWINS (feat. Rob49 & 21 Savage)",
+    "artist": "Travis Scott, Rob49, 21 Savage",
+    "id": "0lodMO0qK83vfPiiD7FMEt",
+    "added_at": "2023-10-30T14:52:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 223
+  },
+  {
+    "name": "CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee)",
+    "artist": "Travis Scott, The Weeknd, Swae Lee",
+    "id": "4GL9GMX9t7Qkprvf1YighZ",
+    "added_at": "2023-10-30T14:52:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 258
+  },
+  {
+    "name": "PARASAIL (feat. Yung Lean & Dave Chappelle)",
+    "artist": "Travis Scott, Yung Lean, Dave Chappelle",
+    "id": "2Q0aElTZQtEUsoiaQfizu6",
+    "added_at": "2023-10-30T14:52:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 154
+  },
+  {
+    "name": "SKITZO (feat. Young Thug)",
+    "artist": "Travis Scott, Young Thug",
+    "id": "0bkV1iQHSxBaksUqgEkcbc",
+    "added_at": "2023-10-30T14:52:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 366
+  },
+  {
+    "name": "LOST FOREVER (feat. Westside Gunn)",
+    "artist": "Travis Scott, Westside Gunn",
+    "id": "7EiUtdeoWcKqLi5ELZCjYf",
+    "added_at": "2023-10-30T14:52:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 163
+  },
+  {
+    "name": "LOOOVE (feat. Kid Cudi)",
+    "artist": "Travis Scott, Kid Cudi",
+    "id": "0a4SMs889NwP8oWI7Vemle",
+    "added_at": "2023-10-30T14:52:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 226
+  },
+  {
+    "name": "K-POP (feat. Bad Bunny & The Weeknd)",
+    "artist": "Travis Scott, Bad Bunny, The Weeknd",
+    "id": "4o82J5zr4DFEs9yj5szCVX",
+    "added_at": "2023-10-30T14:52:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 185
+  },
+  {
+    "name": "TELEKINESIS (feat. SZA & Future)",
+    "artist": "Travis Scott, SZA, Future",
+    "id": "1i9lZvlaDdWDPyXEE95aiq",
+    "added_at": "2023-10-30T14:52:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 353
+  },
+  {
+    "name": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
+    "artist": "Travis Scott, James Blake, 21 Savage",
+    "id": "76gcXhY3Zv6wW0BTe9nHJo",
+    "added_at": "2023-10-30T14:52:24Z",
+    "added_by": "goobz24",
+    "length_seconds": 314
+  },
+  {
+    "name": "black mirror",
+    "artist": "Noname",
+    "id": "0oJO0gr6eOZJmLQcSD4Ekw",
+    "added_at": "2023-10-30T14:52:46Z",
+    "added_by": "goobz24",
+    "length_seconds": 137
+  },
+  {
+    "name": "hold me down (feat. Jimetta Rose & Voices of Creation)",
+    "artist": "Noname, Jimetta Rose, Voices of Creation",
+    "id": "5s7TTyBpzJL1de6l08g4yR",
+    "added_at": "2023-10-30T14:52:46Z",
+    "added_by": "goobz24",
+    "length_seconds": 141
+  },
+  {
+    "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
+    "artist": "Noname, Jay Electronica, Eryn Allen Kane",
+    "id": "31To8W4ERzjzq1Jx5XWSMb",
+    "added_at": "2023-10-30T14:52:46Z",
+    "added_by": "goobz24",
+    "length_seconds": 224
+  },
+  {
+    "name": "boomboom (feat. Ayoni)",
+    "artist": "Noname, Ayoni",
+    "id": "6efrjZM4NUpfmDRFNKvC01",
+    "added_at": "2023-10-30T14:52:46Z",
+    "added_by": "goobz24",
+    "length_seconds": 202
+  },
+  {
+    "name": "potentially the interlude",
+    "artist": "Noname",
+    "id": "4TzRq3VeLAeIkdLa96QaRl",
+    "added_at": "2023-10-30T14:52:46Z",
+    "added_by": "goobz24",
+    "length_seconds": 127
+  },
+  {
+    "name": "namesake",
+    "artist": "Noname",
+    "id": "5TAqSeSM6JI5AGAmMHoSAu",
+    "added_at": "2023-10-30T14:52:46Z",
+    "added_by": "goobz24",
+    "length_seconds": 178
+  },
+  {
+    "name": "beauty supply",
+    "artist": "Noname",
+    "id": "4oevXziJVFARkGMty2HdFF",
+    "added_at": "2023-10-30T14:52:46Z",
+    "added_by": "goobz24",
+    "length_seconds": 193
+  },
+  {
+    "name": "toxic",
+    "artist": "Noname",
+    "id": "63pNoBUYtvcAW0SDkGFbXu",
+    "added_at": "2023-10-30T14:52:46Z",
+    "added_by": "goobz24",
+    "length_seconds": 194
+  },
+  {
+    "name": "afro futurism",
+    "artist": "Noname",
+    "id": "5FcA47Od6WdI9PgaGeerQ1",
+    "added_at": "2023-10-30T14:52:46Z",
+    "added_by": "goobz24",
+    "length_seconds": 120
+  },
+  {
+    "name": "gospel? (feat. $ilkMoney, billy woods, & STOUT)",
+    "artist": "Noname, $ilkMoney, billy woods, STOUT",
+    "id": "3xwt2Ug80REnhThWqqgWTp",
+    "added_at": "2023-10-30T14:52:46Z",
+    "added_by": "goobz24",
+    "length_seconds": 216
+  },
+  {
+    "name": "oblivion (feat. Common & Ayoni)",
+    "artist": "Noname, Common, Ayoni",
+    "id": "78LCzOx60Dd10WyxWovFKy",
+    "added_at": "2023-10-30T14:52:46Z",
+    "added_by": "goobz24",
+    "length_seconds": 178
+  },
+  {
+    "name": "Us Against The World",
+    "artist": "Jungle",
+    "id": "0sHSFzglnJ1b9mILzQ7ifJ",
+    "added_at": "2023-10-30T14:53:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 207
+  },
+  {
+    "name": "Holding On",
+    "artist": "Jungle",
+    "id": "5RELMV0mFHuC9IX6It5F3c",
+    "added_at": "2023-10-30T14:53:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 196
+  },
+  {
+    "name": "Candle Flame",
+    "artist": "Jungle, Erick the Architect",
+    "id": "1Ad2HcIX9zBqoWRvxtpYGf",
+    "added_at": "2023-10-30T14:53:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 174
+  },
+  {
+    "name": "Dominoes",
+    "artist": "Jungle",
+    "id": "59rkTkputMqoxunf9IRzOc",
+    "added_at": "2023-10-30T14:53:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 177
+  },
+  {
+    "name": "I've Been In Love",
+    "artist": "Jungle, Channel Tres",
+    "id": "7j3zZ2jAjzFD60UjhldhHo",
+    "added_at": "2023-10-30T14:53:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 169
+  },
+  {
+    "name": "Back On 74",
+    "artist": "Jungle",
+    "id": "19kHhX6f6EfLU7rcO3RqjO",
+    "added_at": "2023-10-30T14:53:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 209
+  },
+  {
+    "name": "You Ain't No Celebrity",
+    "artist": "Jungle, Roots Manuva",
+    "id": "32PKkiwexuMNEDqfH1p3IH",
+    "added_at": "2023-10-30T14:53:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 153
+  },
+  {
+    "name": "Coming Back",
+    "artist": "Jungle",
+    "id": "2oZJ4OZOP7DHMdSrpx4fwq",
+    "added_at": "2023-10-30T14:53:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 201
+  },
+  {
+    "name": "Don't Play",
+    "artist": "Jungle, Mood Talk",
+    "id": "5yXf2ZVlBdgIGxbSKb6VFW",
+    "added_at": "2023-10-30T14:53:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 226
+  },
+  {
+    "name": "Every Night",
+    "artist": "Jungle",
+    "id": "1j7ll1vNFLdgU7XUagyFV0",
+    "added_at": "2023-10-30T14:53:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 185
+  },
+  {
+    "name": "Problemz",
+    "artist": "Jungle",
+    "id": "7snltzeGB2v44Qb6Qvh9Um",
+    "added_at": "2023-10-30T14:53:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 184
+  },
+  {
+    "name": "Good At Breaking Hearts",
+    "artist": "Jungle, JNR WILLIAMS, 33.3",
+    "id": "6J4JyWGym75LACyBWqipKv",
+    "added_at": "2023-10-30T14:53:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 213
+  },
+  {
+    "name": "Palm Trees",
+    "artist": "Jungle",
+    "id": "4yk9sAWpraADzST2Uh6VPm",
+    "added_at": "2023-10-30T14:53:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 199
+  },
+  {
+    "name": "Pretty Little Thing",
+    "artist": "Jungle, Bas",
+    "id": "5C9anXz5T3PY3A5YkH66cn",
+    "added_at": "2023-10-30T14:53:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 181
+  },
+  {
+    "name": "Michelin Star",
+    "artist": "Mick Jenkins",
+    "id": "4B5GEy5YcHMLcbRIGYEDcx",
+    "added_at": "2023-10-30T14:53:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 115
+  },
+  {
+    "name": "Show & Tell (feat. Freddie Gibbs)",
+    "artist": "Mick Jenkins, Freddie Gibbs",
+    "id": "20r9RAF5u8jbM70PYrGufL",
+    "added_at": "2023-10-30T14:53:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 260
+  },
+  {
+    "name": "Sitting Ducks (feat. Benny The Butcher)",
+    "artist": "Mick Jenkins, Benny The Butcher",
+    "id": "6bVrc22EmnXri5D7zpLa9I",
+    "added_at": "2023-10-30T14:53:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 137
+  },
+  {
+    "name": "Smoke Break-Dance (feat. JID)",
+    "artist": "Mick Jenkins, JID",
+    "id": "01HF0G0K6CPvVIub1JpO4f",
+    "added_at": "2023-10-30T14:53:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 167
+  },
+  {
+    "name": "007",
+    "artist": "Mick Jenkins",
+    "id": "4sv0rzgyjqqCwKBxV1RXmu",
+    "added_at": "2023-10-30T14:53:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 146
+  },
+  {
+    "name": "2004",
+    "artist": "Mick Jenkins",
+    "id": "2JXWANtYS3CPHmlwGS3sET",
+    "added_at": "2023-10-30T14:53:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 85
+  },
+  {
+    "name": "ROY G. BIV",
+    "artist": "Mick Jenkins",
+    "id": "3APxSP7BFQn3pjZxkggWH7",
+    "added_at": "2023-10-30T14:53:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 114
+  },
+  {
+    "name": "Pasta",
+    "artist": "Mick Jenkins",
+    "id": "2wToGAhnWEpw4xmamd95hO",
+    "added_at": "2023-10-30T14:53:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 145
+  },
+  {
+    "name": "Farm to Table (feat. Vic Mensa)",
+    "artist": "Mick Jenkins, VIC MENSA",
+    "id": "4LQicDZELQ4fknadWX403m",
+    "added_at": "2023-10-30T14:53:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 188
+  },
+  {
+    "name": "Guapanese",
+    "artist": "Mick Jenkins",
+    "id": "39pkJZGDFC05WgHkIvbYqd",
+    "added_at": "2023-10-30T14:53:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 144
+  },
+  {
+    "name": "Mop",
+    "artist": "Mick Jenkins",
+    "id": "1zzr2hAl79SS4tGUrrDZGh",
+    "added_at": "2023-10-30T14:53:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 168
+  },
+  {
+    "name": "I bled on stage at first ave",
+    "artist": "Open Mike Eagle",
+    "id": "5HSOM17OTzUpD9PYXWupXj",
+    "added_at": "2023-10-30T14:54:12Z",
+    "added_by": "goobz24",
+    "length_seconds": 165
+  },
+  {
+    "name": "BET's rap city",
+    "artist": "Open Mike Eagle, Young Zee",
+    "id": "36dPr02cH1ciiVuBlTWusW",
+    "added_at": "2023-10-30T14:54:12Z",
+    "added_by": "goobz24",
+    "length_seconds": 167
+  },
+  {
+    "name": "a new rap festival called falling loud",
+    "artist": "Open Mike Eagle",
+    "id": "2gYpTxZgzKTd3T2H5vi1H3",
+    "added_at": "2023-10-30T14:54:12Z",
+    "added_by": "goobz24",
+    "length_seconds": 182
+  },
+  {
+    "name": "the grand prize game on the bozo show",
+    "artist": "Open Mike Eagle, Video Dave, STILL RIFT",
+    "id": "77MsVk0I4Zl7IGgTntqznK",
+    "added_at": "2023-10-30T14:54:12Z",
+    "added_by": "goobz24",
+    "length_seconds": 111
+  },
+  {
+    "name": "we should have made otherground a thing",
+    "artist": "Open Mike Eagle",
+    "id": "7r546AXnaMHFK2sAUN7qfm",
+    "added_at": "2023-10-30T14:54:12Z",
+    "added_by": "goobz24",
+    "length_seconds": 182
+  },
+  {
+    "name": "WFLD 32",
+    "artist": "Open Mike Eagle, Eshu Tune, Video Dave, STILL RIFT",
+    "id": "2OlMYEQxxYJOalyWEb99nx",
+    "added_at": "2023-10-30T14:54:12Z",
+    "added_by": "goobz24",
+    "length_seconds": 266
+  },
+  {
+    "name": "the wire s3 e1",
+    "artist": "Open Mike Eagle, Blu",
+    "id": "4rLRSGGXGTNzFh301AHIz4",
+    "added_at": "2023-10-30T14:54:12Z",
+    "added_by": "goobz24",
+    "length_seconds": 143
+  },
+  {
+    "name": "Dave said these are the liner notes",
+    "artist": "Open Mike Eagle",
+    "id": "4EJL8d1cA6uZmM1RPBcl0t",
+    "added_at": "2023-10-30T14:54:12Z",
+    "added_by": "goobz24",
+    "length_seconds": 181
+  },
+  {
+    "name": "mad enough to aim a pyramid at you",
+    "artist": "Open Mike Eagle",
+    "id": "3LSU6PEgjzueojllT4zKQG",
+    "added_at": "2023-10-30T14:54:12Z",
+    "added_by": "goobz24",
+    "length_seconds": 132
+  },
+  {
+    "name": "100 High Street",
+    "artist": "Earl Sweatshirt, The Alchemist",
+    "id": "13cI0USnl3puOPCBRFK6Xp",
+    "added_at": "2023-10-30T14:54:26Z",
+    "added_by": "goobz24",
+    "length_seconds": 94
+  },
+  {
+    "name": "Vin Skully",
+    "artist": "Earl Sweatshirt, The Alchemist",
+    "id": "09kYuK9gLUai92QYwsrU49",
+    "added_at": "2023-10-30T14:54:26Z",
+    "added_by": "goobz24",
+    "length_seconds": 113
+  },
+  {
+    "name": "Sentry (feat. MIKE)",
+    "artist": "Earl Sweatshirt, The Alchemist, MIKE",
+    "id": "48gtujiZ77wSZ29aWZe84V",
+    "added_at": "2023-10-30T14:54:26Z",
+    "added_by": "goobz24",
+    "length_seconds": 136
+  },
+  {
+    "name": "Heat Check",
+    "artist": "Earl Sweatshirt, The Alchemist",
+    "id": "4X8P4arz5eir4T1VdieWvv",
+    "added_at": "2023-10-30T14:54:26Z",
+    "added_by": "goobz24",
+    "length_seconds": 149
+  },
+  {
+    "name": "Mancala (feat. Vince Staples)",
+    "artist": "Earl Sweatshirt, The Alchemist, Vince Staples",
+    "id": "3G2Xq0ZA5nra0iHMjbXOYD",
+    "added_at": "2023-10-30T14:54:26Z",
+    "added_by": "goobz24",
+    "length_seconds": 161
+  },
+  {
+    "name": "27 Braids",
+    "artist": "Earl Sweatshirt, The Alchemist",
+    "id": "2P85pvlywFv7CxghMFyido",
+    "added_at": "2023-10-30T14:54:26Z",
+    "added_by": "goobz24",
+    "length_seconds": 125
+  },
+  {
+    "name": "Mac Deuce",
+    "artist": "Earl Sweatshirt, The Alchemist",
+    "id": "37etCHGKSycDXh5YlTfTFY",
+    "added_at": "2023-10-30T14:54:26Z",
+    "added_by": "goobz24",
+    "length_seconds": 128
+  },
+  {
+    "name": "Sirius Blac",
+    "artist": "Earl Sweatshirt, The Alchemist",
+    "id": "2GiRBRKYq7s7A4vEKlGeJc",
+    "added_at": "2023-10-30T14:54:26Z",
+    "added_by": "goobz24",
+    "length_seconds": 128
+  },
+  {
+    "name": "Dead Zone",
+    "artist": "Earl Sweatshirt, The Alchemist",
+    "id": "3K47ikyjLxsDVsVngoK00T",
+    "added_at": "2023-10-30T14:54:26Z",
+    "added_by": "goobz24",
+    "length_seconds": 187
+  },
+  {
+    "name": "The Caliphate (feat. Vince Staples)",
+    "artist": "Earl Sweatshirt, The Alchemist, Vince Staples",
+    "id": "3RCbCn5Y1OQpk2FPzBkhJV",
+    "added_at": "2023-10-30T14:54:26Z",
+    "added_by": "goobz24",
+    "length_seconds": 230
+  },
+  {
+    "name": "Free the Ruler",
+    "artist": "Earl Sweatshirt, The Alchemist",
+    "id": "3nf5XHPsVrli1vzS16JCTE",
+    "added_at": "2023-10-30T14:54:26Z",
+    "added_by": "goobz24",
+    "length_seconds": 146
+  },
+  {
+    "name": "Asking To Break",
+    "artist": "James Blake",
+    "id": "1NoxZc2x2Y7eX1U5wHj6hr",
+    "added_at": "2023-10-30T14:54:50Z",
+    "added_by": "goobz24",
+    "length_seconds": 172
+  },
+  {
+    "name": "Loading",
+    "artist": "James Blake",
+    "id": "0GQW2gDyxgT5IsNEM4osbJ",
+    "added_at": "2023-10-30T14:54:50Z",
+    "added_by": "goobz24",
+    "length_seconds": 284
+  },
+  {
+    "name": "Tell Me",
+    "artist": "James Blake",
+    "id": "0hUU81fjvfcvaiCCN51oRy",
+    "added_at": "2023-10-30T14:54:50Z",
+    "added_by": "goobz24",
+    "length_seconds": 300
+  },
+  {
+    "name": "Fall Back",
+    "artist": "James Blake",
+    "id": "41uuqHFB7mvUpRwacQmoxO",
+    "added_at": "2023-10-30T14:54:50Z",
+    "added_by": "goobz24",
+    "length_seconds": 241
+  },
+  {
+    "name": "He's Been Wonderful",
+    "artist": "James Blake",
+    "id": "6SjfEEXbDfnS2MktMKn43M",
+    "added_at": "2023-10-30T14:54:50Z",
+    "added_by": "goobz24",
+    "length_seconds": 201
+  },
+  {
+    "name": "Big Hammer",
+    "artist": "James Blake",
+    "id": "4jaxbEGk3Jgu45VdK8FOkS",
+    "added_at": "2023-10-30T14:54:50Z",
+    "added_by": "goobz24",
+    "length_seconds": 240
+  },
+  {
+    "name": "I Want You To Know",
+    "artist": "James Blake",
+    "id": "4bZAsC7ftR11pHpRNk2Mhc",
+    "added_at": "2023-10-30T14:54:50Z",
+    "added_by": "goobz24",
+    "length_seconds": 287
+  },
+  {
+    "name": "Night Sky",
+    "artist": "James Blake",
+    "id": "0Ein5lbDQAMko00iGc4egB",
+    "added_at": "2023-10-30T14:54:50Z",
+    "added_by": "goobz24",
+    "length_seconds": 219
+  },
+  {
+    "name": "Fire The Editor",
+    "artist": "James Blake",
+    "id": "0zD58i3BWyPRhGrx7ZBoN9",
+    "added_at": "2023-10-30T14:54:50Z",
+    "added_by": "goobz24",
+    "length_seconds": 237
+  },
+  {
+    "name": "If You Can Hear Me",
+    "artist": "James Blake",
+    "id": "4er6UeSasrdJ4WXGLH5AZE",
+    "added_at": "2023-10-30T14:54:50Z",
+    "added_by": "goobz24",
+    "length_seconds": 144
+  },
+  {
+    "name": "Playing Robots Into Heaven",
+    "artist": "James Blake",
+    "id": "1EBeyv8NCRJw4Uo5UvZBqB",
+    "added_at": "2023-10-30T14:54:50Z",
+    "added_by": "goobz24",
+    "length_seconds": 234
+  },
+  {
+    "name": "all-american bitch",
+    "artist": "Olivia Rodrigo",
+    "id": "34sOdxWu9FljH84UXdRwu1",
+    "added_at": "2023-10-30T14:55:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 165
+  },
+  {
+    "name": "bad idea right?",
+    "artist": "Olivia Rodrigo",
+    "id": "3IX0yuEVvDbnqUwMBB3ouC",
+    "added_at": "2023-10-30T14:55:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 184
+  },
+  {
+    "name": "vampire",
+    "artist": "Olivia Rodrigo",
+    "id": "1kuGVB7EU95pJObxwvfwKS",
+    "added_at": "2023-10-30T14:55:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 219
+  },
+  {
+    "name": "lacy",
+    "artist": "Olivia Rodrigo",
+    "id": "6QT6j7rKt7Vk3IuV2AUO9W",
+    "added_at": "2023-10-30T14:55:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 177
+  },
+  {
+    "name": "ballad of a homeschooled girl",
+    "artist": "Olivia Rodrigo",
+    "id": "5sp71CUt0jXRNqHblPGp7b",
+    "added_at": "2023-10-30T14:55:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 203
+  },
+  {
+    "name": "making the bed",
+    "artist": "Olivia Rodrigo",
+    "id": "5CscrLqFBgPfZR8fGtikov",
+    "added_at": "2023-10-30T14:55:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 198
+  },
+  {
+    "name": "logical",
+    "artist": "Olivia Rodrigo",
+    "id": "53dtP2iUMvaF28JZcHnFuU",
+    "added_at": "2023-10-30T14:55:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 231
+  },
+  {
+    "name": "get him back!",
+    "artist": "Olivia Rodrigo",
+    "id": "2gyxAWHebV7xPYVxqoi86f",
+    "added_at": "2023-10-30T14:55:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 211
+  },
+  {
+    "name": "love is embarrassing",
+    "artist": "Olivia Rodrigo",
+    "id": "26QLJMK8G0M06sk7h7Fkse",
+    "added_at": "2023-10-30T14:55:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 154
+  },
+  {
+    "name": "the grudge",
+    "artist": "Olivia Rodrigo",
+    "id": "3Nl5OkkmS5DaBZvuYofpAt",
+    "added_at": "2023-10-30T14:55:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 189
+  },
+  {
+    "name": "pretty isn\u2019t pretty",
+    "artist": "Olivia Rodrigo",
+    "id": "6W9l02gRsXVxzIuQC1oc1X",
+    "added_at": "2023-10-30T14:55:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 199
+  },
+  {
+    "name": "teenage dream",
+    "artist": "Olivia Rodrigo",
+    "id": "7fesNTgTEMEH0ye8MOgEDY",
+    "added_at": "2023-10-30T14:55:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 222
+  },
+  {
+    "name": "OK",
+    "artist": "Teezo Touchdown",
+    "id": "6CUEfZnGPDZhPTe2C8whBV",
+    "added_at": "2023-10-30T14:55:45Z",
+    "added_by": "goobz24",
+    "length_seconds": 117
+  },
+  {
+    "name": "You Thought (feat. Janelle Mon\u00e1e)",
+    "artist": "Teezo Touchdown, Janelle Mon\u00e1e",
+    "id": "698IDYJMDJS5IVakqcX8vo",
+    "added_at": "2023-10-30T14:55:45Z",
+    "added_by": "goobz24",
+    "length_seconds": 181
+  },
+  {
+    "name": "UUHH",
+    "artist": "Teezo Touchdown",
+    "id": "7sRWSZHTZNdd8cZ0EOSVyK",
+    "added_at": "2023-10-30T14:55:45Z",
+    "added_by": "goobz24",
+    "length_seconds": 209
+  },
+  {
+    "name": "Sweet (feat. Foushe\u00e9)",
+    "artist": "Teezo Touchdown, Foushe\u00e9",
+    "id": "2X3noddA1Gi8OmJVRP4eYC",
+    "added_at": "2023-10-30T14:55:45Z",
+    "added_by": "goobz24",
+    "length_seconds": 132
+  },
+  {
+    "name": "Impossible",
+    "artist": "Teezo Touchdown",
+    "id": "6DrrY8ardpYRyF90mzN0jF",
+    "added_at": "2023-10-30T14:55:45Z",
+    "added_by": "goobz24",
+    "length_seconds": 166
+  },
+  {
+    "name": "Neighborhood",
+    "artist": "Teezo Touchdown",
+    "id": "7K2F1iA92xov6IKfuDTNZ5",
+    "added_at": "2023-10-30T14:55:45Z",
+    "added_by": "goobz24",
+    "length_seconds": 207
+  },
+  {
+    "name": "Mood Swings",
+    "artist": "Teezo Touchdown",
+    "id": "39XPL6pNEB9qUnHctJClf6",
+    "added_at": "2023-10-30T14:55:45Z",
+    "added_by": "goobz24",
+    "length_seconds": 173
+  },
+  {
+    "name": "Too Easy (feat. Isaiah Rusk)",
+    "artist": "Teezo Touchdown, Isaiah Rusk",
+    "id": "1KeTFvo89fkrxER08CNKUk",
+    "added_at": "2023-10-30T14:55:45Z",
+    "added_by": "goobz24",
+    "length_seconds": 172
+  },
+  {
+    "name": "Familiarity",
+    "artist": "Teezo Touchdown",
+    "id": "0pIK6x0wL53AHJM7yK0pmq",
+    "added_at": "2023-10-30T14:55:45Z",
+    "added_by": "goobz24",
+    "length_seconds": 207
+  },
+  {
+    "name": "I Don't Think U C Me (feat. Isaiah Rusk)",
+    "artist": "Teezo Touchdown, Isaiah Rusk",
+    "id": "2e9A9uV6Nosw1LXGP8jvq9",
+    "added_at": "2023-10-30T14:55:45Z",
+    "added_by": "goobz24",
+    "length_seconds": 103
+  },
+  {
+    "name": "Daddy Mama Drama",
+    "artist": "Teezo Touchdown",
+    "id": "3I2rUjp8TXOQfeRmOsMKcN",
+    "added_at": "2023-10-30T14:55:45Z",
+    "added_by": "goobz24",
+    "length_seconds": 232
+  },
+  {
+    "name": "Nu Nay",
+    "artist": "Teezo Touchdown",
+    "id": "5YkIbI89Fg2Z3YdT9VqQTo",
+    "added_at": "2023-10-30T14:55:45Z",
+    "added_by": "goobz24",
+    "length_seconds": 106
+  },
+  {
+    "name": "Stranger",
+    "artist": "Teezo Touchdown",
+    "id": "0kOPIHtZzd3Yxu1liJrlp2",
+    "added_at": "2023-10-30T14:55:45Z",
+    "added_by": "goobz24",
+    "length_seconds": 217
+  },
+  {
+    "name": "The Original Was Better",
+    "artist": "Teezo Touchdown",
+    "id": "4bDw8VHzM0Od5h3enAf0ko",
+    "added_at": "2023-10-30T14:55:45Z",
+    "added_by": "goobz24",
+    "length_seconds": 147
+  },
+  {
+    "name": "Dreamer",
+    "artist": "Laufey",
+    "id": "1YxQxV5sKZN1TgVpXl5MLA",
+    "added_at": "2023-10-30T14:56:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 210
+  },
+  {
+    "name": "Second Best",
+    "artist": "Laufey",
+    "id": "4Y9Ge3i5r0vgFAZq653Yx3",
+    "added_at": "2023-10-30T14:56:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 204
+  },
+  {
+    "name": "Haunted",
+    "artist": "Laufey",
+    "id": "1bx9j48IeWnDnPqcTTqT8Q",
+    "added_at": "2023-10-30T14:56:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 200
+  },
+  {
+    "name": "Must Be Love",
+    "artist": "Laufey",
+    "id": "4kSC1tqpUxYdZTqtA0aztf",
+    "added_at": "2023-10-30T14:56:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 184
+  },
+  {
+    "name": "While You Were Sleeping",
+    "artist": "Laufey",
+    "id": "753iehfOnYSmjVfjx20znR",
+    "added_at": "2023-10-30T14:56:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 177
+  },
+  {
+    "name": "Lovesick",
+    "artist": "Laufey",
+    "id": "39fD0qvjgk8RarJnoBiDTx",
+    "added_at": "2023-10-30T14:56:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 225
+  },
+  {
+    "name": "California and Me",
+    "artist": "Laufey, Philharmonia Orchestra",
+    "id": "5VP1yXviUwA0KA0ewit5pe",
+    "added_at": "2023-10-30T14:56:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 216
+  },
+  {
+    "name": "Nocturne (Interlude)",
+    "artist": "Laufey",
+    "id": "2dcPutROdT0VLw2ajhBwTc",
+    "added_at": "2023-10-30T14:56:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 144
+  },
+  {
+    "name": "Promise",
+    "artist": "Laufey",
+    "id": "08PdFBcXzpkn1cWNgmKqhn",
+    "added_at": "2023-10-30T14:56:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 234
+  },
+  {
+    "name": "From The Start",
+    "artist": "Laufey",
+    "id": "43iIQbw5hx986dUEZbr3eN",
+    "added_at": "2023-10-30T14:56:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 169
+  },
+  {
+    "name": "Misty",
+    "artist": "Laufey",
+    "id": "5oEJyOsT68BDRwLoQQJl6W",
+    "added_at": "2023-10-30T14:56:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 209
+  },
+  {
+    "name": "Serendipity",
+    "artist": "Laufey",
+    "id": "5yIuA6g8P4nwWGMzXfhX4a",
+    "added_at": "2023-10-30T14:56:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 219
+  },
+  {
+    "name": "Letter To My 13 Year Old Self",
+    "artist": "Laufey",
+    "id": "59Y1f3y8FuLjadWY9Bx2LC",
+    "added_at": "2023-10-30T14:56:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 262
+  },
+  {
+    "name": "Bewitched",
+    "artist": "Laufey",
+    "id": "0pfpeTGQOWlGp6YUUbBD42",
+    "added_at": "2023-10-30T14:56:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 246
+  },
+  {
+    "name": "Bug Like an Angel",
+    "artist": "Mitski",
+    "id": "45KMdPDdZTxcXW3lw10R70",
+    "added_at": "2023-10-30T14:56:25Z",
+    "added_by": "goobz24",
+    "length_seconds": 212
+  },
+  {
+    "name": "Buffalo Replaced",
+    "artist": "Mitski",
+    "id": "06m6Q2ZUHNsHGEHK9m8hLf",
+    "added_at": "2023-10-30T14:56:25Z",
+    "added_by": "goobz24",
+    "length_seconds": 160
+  },
+  {
+    "name": "Heaven",
+    "artist": "Mitski",
+    "id": "5T00EN4oZmDQx3hqVAC4Fx",
+    "added_at": "2023-10-30T14:56:25Z",
+    "added_by": "goobz24",
+    "length_seconds": 224
+  },
+  {
+    "name": "I Don't Like My Mind",
+    "artist": "Mitski",
+    "id": "1l0BBsLElenQWul8Fn8tT1",
+    "added_at": "2023-10-30T14:56:25Z",
+    "added_by": "goobz24",
+    "length_seconds": 145
+  },
+  {
+    "name": "The Deal",
+    "artist": "Mitski",
+    "id": "0CNJcM33kvWE8v26wBy9wB",
+    "added_at": "2023-10-30T14:56:25Z",
+    "added_by": "goobz24",
+    "length_seconds": 232
+  },
+  {
+    "name": "When Memories Snow",
+    "artist": "Mitski",
+    "id": "0QzJS1fQv5l0s1mqKTECRX",
+    "added_at": "2023-10-30T14:56:25Z",
+    "added_by": "goobz24",
+    "length_seconds": 104
+  },
+  {
+    "name": "My Love Mine All Mine",
+    "artist": "Mitski",
+    "id": "3vkCueOmm7xQDoJ17W1Pm3",
+    "added_at": "2023-10-30T14:56:25Z",
+    "added_by": "goobz24",
+    "length_seconds": 137
+  },
+  {
+    "name": "The Frost",
+    "artist": "Mitski",
+    "id": "41nIJErYY9goKvnCyG7ov6",
+    "added_at": "2023-10-30T14:56:25Z",
+    "added_by": "goobz24",
+    "length_seconds": 168
+  },
+  {
+    "name": "Star",
+    "artist": "Mitski",
+    "id": "5ijSUALHfNot7KSafyLI4E",
+    "added_at": "2023-10-30T14:56:25Z",
+    "added_by": "goobz24",
+    "length_seconds": 179
+  },
+  {
+    "name": "I'm Your Man",
+    "artist": "Mitski",
+    "id": "6YO2dalWyZSobXSY3UUPv9",
+    "added_at": "2023-10-30T14:56:25Z",
+    "added_by": "goobz24",
+    "length_seconds": 209
+  },
+  {
+    "name": "I Love Me After You",
+    "artist": "Mitski",
+    "id": "55Y5p2XyPaYBPGtzj1f9fE",
+    "added_at": "2023-10-30T14:56:25Z",
+    "added_by": "goobz24",
+    "length_seconds": 168
+  },
+  {
+    "name": "The Wake",
+    "artist": "EARTHGANG, Spillage Village",
+    "id": "4FHhXk0JniueARdhSOInDZ",
+    "added_at": "2023-10-30T14:57:16Z",
+    "added_by": "goobz24",
+    "length_seconds": 135
+  },
+  {
+    "name": "Die Today",
+    "artist": "EARTHGANG, Spillage Village",
+    "id": "1oHMQD68N3zBAI14YNNbki",
+    "added_at": "2023-10-30T14:57:16Z",
+    "added_by": "goobz24",
+    "length_seconds": 178
+  },
+  {
+    "name": "Flavors of Karma",
+    "artist": "EARTHGANG, Spillage Village",
+    "id": "56Nv3kZNdUPL6BsC1I0jd7",
+    "added_at": "2023-10-30T14:57:16Z",
+    "added_by": "goobz24",
+    "length_seconds": 274
+  },
+  {
+    "name": "Imagine",
+    "artist": "EARTHGANG, Spillage Village, Rama",
+    "id": "73wXgS33gR5XYBsIm2SUCd",
+    "added_at": "2023-10-30T14:57:16Z",
+    "added_by": "goobz24",
+    "length_seconds": 265
+  },
+  {
+    "name": "Bobby Boucher",
+    "artist": "EARTHGANG, Spillage Village, Benji.",
+    "id": "6Uj7SZ86TnzJtagZsXQ31V",
+    "added_at": "2023-10-30T14:57:16Z",
+    "added_by": "goobz24",
+    "length_seconds": 195
+  },
+  {
+    "name": "Paint The Town Red",
+    "artist": "Doja Cat",
+    "id": "7DlZH8EiVDgQXNoj3dnyZC",
+    "added_at": "2023-10-30T14:57:31Z",
+    "added_by": "goobz24",
+    "length_seconds": 230
+  },
+  {
+    "name": "Demons",
+    "artist": "Doja Cat",
+    "id": "6vb4kCEIM7zrwuHlxFbfeB",
+    "added_at": "2023-10-30T14:57:31Z",
+    "added_by": "goobz24",
+    "length_seconds": 195
+  },
+  {
+    "name": "Wet Vagina",
+    "artist": "Doja Cat",
+    "id": "5MqauQV2PhcEFfhKtBOTua",
+    "added_at": "2023-10-30T14:57:31Z",
+    "added_by": "goobz24",
+    "length_seconds": 192
+  },
+  {
+    "name": "Fuck The Girls (FTG)",
+    "artist": "Doja Cat",
+    "id": "6DOphQTeNmy1gk3um8sPYC",
+    "added_at": "2023-10-30T14:57:31Z",
+    "added_by": "goobz24",
+    "length_seconds": 152
+  },
+  {
+    "name": "Ouchies",
+    "artist": "Doja Cat",
+    "id": "18EGw1StZNDftpUcX8PM74",
+    "added_at": "2023-10-30T14:57:31Z",
+    "added_by": "goobz24",
+    "length_seconds": 122
+  },
+  {
+    "name": "97",
+    "artist": "Doja Cat",
+    "id": "3zLwDjumhvIFFwAAZaDNPL",
+    "added_at": "2023-10-30T14:57:31Z",
+    "added_by": "goobz24",
+    "length_seconds": 177
+  },
+  {
+    "name": "Gun",
+    "artist": "Doja Cat",
+    "id": "15sNe8FD178zMsVz6ug0AS",
+    "added_at": "2023-10-30T14:57:31Z",
+    "added_by": "goobz24",
+    "length_seconds": 176
+  },
+  {
+    "name": "Go Off",
+    "artist": "Doja Cat",
+    "id": "032UZ3KVrzII6AE9Abnj7z",
+    "added_at": "2023-10-30T14:57:31Z",
+    "added_by": "goobz24",
+    "length_seconds": 197
+  },
+  {
+    "name": "Shutcho",
+    "artist": "Doja Cat",
+    "id": "4rjQxlKAIXbEqHzjrnYZ7x",
+    "added_at": "2023-10-30T14:57:31Z",
+    "added_by": "goobz24",
+    "length_seconds": 187
+  },
+  {
+    "name": "Agora Hills",
+    "artist": "Doja Cat",
+    "id": "7dJYggqjKo71KI9sLzqCs8",
+    "added_at": "2023-10-30T14:57:31Z",
+    "added_by": "goobz24",
+    "length_seconds": 265
+  },
+  {
+    "name": "Can't Wait",
+    "artist": "Doja Cat",
+    "id": "5ZyQqAgrPr0cVm0VfM69Np",
+    "added_at": "2023-10-30T14:57:31Z",
+    "added_by": "goobz24",
+    "length_seconds": 235
+  },
+  {
+    "name": "Often",
+    "artist": "Doja Cat",
+    "id": "18dR6VljfkTb47HJOQ9chv",
+    "added_at": "2023-10-30T14:57:31Z",
+    "added_by": "goobz24",
+    "length_seconds": 198
+  },
+  {
+    "name": "Love Life",
+    "artist": "Doja Cat",
+    "id": "4NW3t9GA7CyBisyoROefUs",
+    "added_at": "2023-10-30T14:57:31Z",
+    "added_by": "goobz24",
+    "length_seconds": 236
+  },
+  {
+    "name": "Skull And Bones",
+    "artist": "Doja Cat",
+    "id": "3qefkziLSTq2l5H1bRoea8",
+    "added_at": "2023-10-30T14:57:31Z",
+    "added_by": "goobz24",
+    "length_seconds": 248
+  },
+  {
+    "name": "Attention",
+    "artist": "Doja Cat",
+    "id": "56uOalQCSny79UjPrefkHy",
+    "added_at": "2023-10-30T14:57:31Z",
+    "added_by": "goobz24",
+    "length_seconds": 275
+  },
+  {
+    "name": "Balut",
+    "artist": "Doja Cat",
+    "id": "3yeVb5di44wD6CZ2sJromR",
+    "added_at": "2023-10-30T14:57:31Z",
+    "added_by": "goobz24",
+    "length_seconds": 205
+  },
+  {
+    "name": "WYM Freestyle",
+    "artist": "Doja Cat",
+    "id": "1qimDZEBflJE25RXkF24Yg",
+    "added_at": "2023-10-30T14:57:31Z",
+    "added_by": "goobz24",
+    "length_seconds": 124
+  },
+  {
+    "name": "Wind Rider",
+    "artist": "aivi & surasshu",
+    "id": "3I44HS7ngeCYNSrCohd5jm",
+    "added_at": "2023-10-30T14:57:51Z",
+    "added_by": "goobz24",
+    "length_seconds": 316
+  },
+  {
+    "name": "Periphery",
+    "artist": "aivi & surasshu",
+    "id": "25fDb6RwCxOWhw9iomTl6b",
+    "added_at": "2023-10-30T14:57:51Z",
+    "added_by": "goobz24",
+    "length_seconds": 293
+  },
+  {
+    "name": "Interlude #1: 10/10",
+    "artist": "aivi & surasshu",
+    "id": "6mptl22Jv91V6mY8ODO33y",
+    "added_at": "2023-10-30T14:57:51Z",
+    "added_by": "goobz24",
+    "length_seconds": 116
+  },
+  {
+    "name": "Starside",
+    "artist": "aivi & surasshu",
+    "id": "3w7wiCVRdH3B3NqVibxdiU",
+    "added_at": "2023-10-30T14:57:51Z",
+    "added_by": "goobz24",
+    "length_seconds": 270
+  },
+  {
+    "name": "Slice of Love",
+    "artist": "aivi & surasshu",
+    "id": "1Kx9WmCKJRpO5fcD0kZj44",
+    "added_at": "2023-10-30T14:57:51Z",
+    "added_by": "goobz24",
+    "length_seconds": 238
+  },
+  {
+    "name": "Interlude #2: Manifest",
+    "artist": "aivi & surasshu",
+    "id": "0ylVj1lRpKTWSSGSagck5c",
+    "added_at": "2023-10-30T14:57:51Z",
+    "added_by": "goobz24",
+    "length_seconds": 58
+  },
+  {
+    "name": "Time Travel",
+    "artist": "aivi & surasshu",
+    "id": "3JCI4wH7pamQZ2jx7ZqL6T",
+    "added_at": "2023-10-30T14:57:51Z",
+    "added_by": "goobz24",
+    "length_seconds": 316
+  },
+  {
+    "name": "Wish",
+    "artist": "aivi & surasshu",
+    "id": "771t2KlLRHxh623Ci4Tq2t",
+    "added_at": "2023-10-30T14:57:51Z",
+    "added_by": "goobz24",
+    "length_seconds": 297
+  },
+  {
+    "name": "Interlude #3: Soft Moon Music",
+    "artist": "aivi & surasshu",
+    "id": "4QeV7qCz6ealyZPXkkppxU",
+    "added_at": "2023-10-30T14:57:51Z",
+    "added_by": "goobz24",
+    "length_seconds": 123
+  },
+  {
+    "name": "Goodbye Evergreen",
+    "artist": "Sufjan Stevens",
+    "id": "2GEs9D56FRHqUAEwvlvBpw",
+    "added_at": "2023-10-30T14:58:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 215
+  },
+  {
+    "name": "A Running Start",
+    "artist": "Sufjan Stevens",
+    "id": "0VEjM4LYuOxPCtrtKuwbuq",
+    "added_at": "2023-10-30T14:58:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 261
+  },
+  {
+    "name": "Will Anybody Ever Love Me?",
+    "artist": "Sufjan Stevens",
+    "id": "7IAx9OvToHkT8C4ZlX9hwe",
+    "added_at": "2023-10-30T14:58:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 249
+  },
+  {
+    "name": "Everything That Rises",
+    "artist": "Sufjan Stevens",
+    "id": "7fai4Q1FhzPPMLnooY7RM8",
+    "added_at": "2023-10-30T14:58:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 299
+  },
+  {
+    "name": "Genuflecting Ghost",
+    "artist": "Sufjan Stevens",
+    "id": "4Ysl0ybOaEiipH0Sb3A0qy",
+    "added_at": "2023-10-30T14:58:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 212
+  },
+  {
+    "name": "My Red Little Fox",
+    "artist": "Sufjan Stevens",
+    "id": "18R8a3jq3bbda5XX8fol2r",
+    "added_at": "2023-10-30T14:58:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 222
+  },
+  {
+    "name": "So You Are Tired",
+    "artist": "Sufjan Stevens",
+    "id": "0pkm7xATstQUqHoitmE3ru",
+    "added_at": "2023-10-30T14:58:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 289
+  },
+  {
+    "name": "Javelin (To Have And To Hold)",
+    "artist": "Sufjan Stevens",
+    "id": "1GmMrLzrzfnxdvV4OiMU9s",
+    "added_at": "2023-10-30T14:58:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 112
+  },
+  {
+    "name": "Shit Talk",
+    "artist": "Sufjan Stevens",
+    "id": "6t8aRTXXIcx9JVRD8IRZKR",
+    "added_at": "2023-10-30T14:58:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 511
+  },
+  {
+    "name": "There's A World",
+    "artist": "Sufjan Stevens",
+    "id": "5x5asE4hey1Y033Vl2UZ94",
+    "added_at": "2023-10-30T14:58:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 149
+  },
+  {
+    "name": "Virginia Beach",
+    "artist": "Drake",
+    "id": "3eP13S8D5m2cweMEg3ZDed",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 251
+  },
+  {
+    "name": "Amen (feat. Teezo Touchdown)",
+    "artist": "Drake, Teezo Touchdown",
+    "id": "0Mrnt1YqVuW2bqmwu4VxDt",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 141
+  },
+  {
+    "name": "Calling For You (feat. 21 Savage)",
+    "artist": "Drake, 21 Savage",
+    "id": "2nibvvDdAQkVraYP00z2RS",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 285
+  },
+  {
+    "name": "Fear Of Heights",
+    "artist": "Drake",
+    "id": "53KaP77tkliz36LPxWGlWK",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 155
+  },
+  {
+    "name": "Daylight",
+    "artist": "Drake",
+    "id": "4ZT0wGKwlJRjpMUuwZVy3p",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 164
+  },
+  {
+    "name": "First Person Shooter (feat. J. Cole)",
+    "artist": "Drake, J. Cole",
+    "id": "7aqfrAY2p9BUSiupwk3svU",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 247
+  },
+  {
+    "name": "IDGAF (feat. Yeat)",
+    "artist": "Drake, Yeat",
+    "id": "2YSzYUF3jWqb9YP9VXmpjE",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 260
+  },
+  {
+    "name": "7969 Santa",
+    "artist": "Drake",
+    "id": "1GpWY5RiInhezB8wGWs6oN",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 259
+  },
+  {
+    "name": "Slime You Out (feat. SZA)",
+    "artist": "Drake, SZA",
+    "id": "0AYt6NMyyLd0rLuvr0UkMH",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 310
+  },
+  {
+    "name": "Bahamas Promises",
+    "artist": "Drake",
+    "id": "3JZjcKImHcmOI9ylL4zrSc",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 184
+  },
+  {
+    "name": "Tried Our Best",
+    "artist": "Drake",
+    "id": "3IHt4j5uAEl7iBu8Utn985",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 209
+  },
+  {
+    "name": "Screw The World - Interlude",
+    "artist": "Drake",
+    "id": "0ArVfVP8B5svkfj8clHNzB",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 112
+  },
+  {
+    "name": "Drew A Picasso",
+    "artist": "Drake",
+    "id": "03rwnftfgpYVO6QDWOZcG6",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 262
+  },
+  {
+    "name": "Members Only (feat. PARTYNEXTDOOR)",
+    "artist": "Drake, PARTYNEXTDOOR",
+    "id": "24FUBxaAYSBlWsbSnEzDcn",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 277
+  },
+  {
+    "name": "What Would Pluto Do",
+    "artist": "Drake",
+    "id": "1DAibqbopEYULPEtE8WHTE",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 182
+  },
+  {
+    "name": "All The Parties (feat. Chief Keef)",
+    "artist": "Drake, Chief Keef",
+    "id": "1PIgY9ybyFT9uWLM5POYGY",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 218
+  },
+  {
+    "name": "8am in Charlotte",
+    "artist": "Drake",
+    "id": "0w3Mfe4PIVjuFjJbe3OlYv",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 266
+  },
+  {
+    "name": "BBL Love - Interlude",
+    "artist": "Drake",
+    "id": "1mjAD7IYvI5UGiB7WnppMf",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 161
+  },
+  {
+    "name": "Gently (feat. Bad Bunny)",
+    "artist": "Drake, Bad Bunny",
+    "id": "6ZprqcYFC6D9eIZaCoqrSn",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 133
+  },
+  {
+    "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+    "artist": "Drake, Sexyy Red, SZA",
+    "id": "1yeB8MUNeLo9Ek1UEpsyz6",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 319
+  },
+  {
+    "name": "Another Late Night (feat. Lil Yachty)",
+    "artist": "Drake, Lil Yachty",
+    "id": "17IBDpAl3J39swaoPlfGpp",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 170
+  },
+  {
+    "name": "Away From Home",
+    "artist": "Drake",
+    "id": "4IcbUXrAzBtn6iUO1LP471",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 258
+  },
+  {
+    "name": "Polar Opposites",
+    "artist": "Drake",
+    "id": "3oZZfVvLJuDYc4Vn3A63Fw",
+    "added_at": "2023-10-30T14:58:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 257
+  },
+  {
+    "name": "Stereo Colour Cloud (Shaman's Dream)",
+    "artist": "Sampha",
+    "id": "2VQspDUq9kCe8L9aorXuH4",
+    "added_at": "2023-10-30T14:58:48Z",
+    "added_by": "goobz24",
+    "length_seconds": 177
+  },
+  {
+    "name": "Spirit 2.0",
+    "artist": "Sampha",
+    "id": "57s2fT1A0hOxscqF2Jipd5",
+    "added_at": "2023-10-30T14:58:48Z",
+    "added_by": "goobz24",
+    "length_seconds": 289
+  },
+  {
+    "name": "Dancing Circles",
+    "artist": "Sampha",
+    "id": "6lNyT8TfnpMTRrmJRQKQC9",
+    "added_at": "2023-10-30T14:58:48Z",
+    "added_by": "goobz24",
+    "length_seconds": 233
+  },
+  {
+    "name": "Suspended",
+    "artist": "Sampha",
+    "id": "1maIZ0gsjVbdANLvl4v0ao",
+    "added_at": "2023-10-30T14:58:48Z",
+    "added_by": "goobz24",
+    "length_seconds": 185
+  },
+  {
+    "name": "Satellite Business",
+    "artist": "Sampha",
+    "id": "5iD6xnMf8kZl3TKFKXLOgi",
+    "added_at": "2023-10-30T14:58:48Z",
+    "added_by": "goobz24",
+    "length_seconds": 84
+  },
+  {
+    "name": "Jonathan L. Seagull",
+    "artist": "Sampha",
+    "id": "0jBmIDMdIOOct8T62qBeRh",
+    "added_at": "2023-10-30T14:58:48Z",
+    "added_by": "goobz24",
+    "length_seconds": 274
+  },
+  {
+    "name": "Inclination Compass (Tenderness)",
+    "artist": "Sampha",
+    "id": "74QKZtja1eXqpVg0fS3A2u",
+    "added_at": "2023-10-30T14:58:48Z",
+    "added_by": "goobz24",
+    "length_seconds": 188
+  },
+  {
+    "name": "Only",
+    "artist": "Sampha",
+    "id": "5exI5swI6LNxrwdEDbL16y",
+    "added_at": "2023-10-30T14:58:48Z",
+    "added_by": "goobz24",
+    "length_seconds": 169
+  },
+  {
+    "name": "Time Piece",
+    "artist": "Sampha",
+    "id": "15eImolZwDSwOhlP3WgKD4",
+    "added_at": "2023-10-30T14:58:48Z",
+    "added_by": "goobz24",
+    "length_seconds": 20
+  },
+  {
+    "name": "Can't Go Back",
+    "artist": "Sampha",
+    "id": "3AMkB7lBciaMh66dCx1nqL",
+    "added_at": "2023-10-30T14:58:48Z",
+    "added_by": "goobz24",
+    "length_seconds": 221
+  },
+  {
+    "name": "Evidence",
+    "artist": "Sampha",
+    "id": "0VsvFvzpUxL2tjRz1bmE4J",
+    "added_at": "2023-10-30T14:58:48Z",
+    "added_by": "goobz24",
+    "length_seconds": 197
+  },
+  {
+    "name": "Wave Therapy",
+    "artist": "Sampha",
+    "id": "3r2tN1OOnJKNso1dse0XQw",
+    "added_at": "2023-10-30T14:58:48Z",
+    "added_by": "goobz24",
+    "length_seconds": 32
+  },
+  {
+    "name": "What If You Hypnotise Me?",
+    "artist": "Sampha, L\u00e9a Sen",
+    "id": "2PLin9HTBWvzjhfCVIDPl1",
+    "added_at": "2023-10-30T14:58:48Z",
+    "added_by": "goobz24",
+    "length_seconds": 218
+  },
+  {
+    "name": "Rose Tint",
+    "artist": "Sampha",
+    "id": "4ggbOvEqIVLoTmSbK7PquQ",
+    "added_at": "2023-10-30T14:58:48Z",
+    "added_by": "goobz24",
+    "length_seconds": 166
+  },
+  {
+    "name": "Cobra",
+    "artist": "Megan Thee Stallion",
+    "id": "3Kh8X9lHztqVBTgw30HbXn",
+    "added_at": "2023-11-23T15:30:34Z",
+    "added_by": "goobz24",
+    "length_seconds": 168
+  },
+  {
+    "name": "The ITS Way",
+    "artist": "Aesop Rock",
+    "id": "2XloVztmhIgzNoi1Ddy1xV",
+    "added_at": "2023-11-23T15:30:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 49
+  },
+  {
+    "name": "Mindful Solutionism",
+    "artist": "Aesop Rock",
+    "id": "2oET5wngczW7vMQEwRTmyv",
+    "added_at": "2023-11-23T15:30:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 214
+  },
+  {
+    "name": "Infinity Fill Goose Down",
+    "artist": "Aesop Rock",
+    "id": "3FmAEiHge5RCZoVIk5H3E2",
+    "added_at": "2023-11-23T15:30:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 212
+  },
+  {
+    "name": "Living Curfew",
+    "artist": "Aesop Rock, billy woods",
+    "id": "2yYzwNHB5mctE8V9TaIe4q",
+    "added_at": "2023-11-23T15:30:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 231
+  },
+  {
+    "name": "Pigeonometry",
+    "artist": "Aesop Rock",
+    "id": "0aceA3yLmCAkhzEKhoY20C",
+    "added_at": "2023-11-23T15:30:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 212
+  },
+  {
+    "name": "Kyanite Toothpick",
+    "artist": "Aesop Rock, Hanni El Khatib",
+    "id": "30zLf6S0GxnfYUBLLxxA2k",
+    "added_at": "2023-11-23T15:30:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 249
+  },
+  {
+    "name": "100 Feet Tall",
+    "artist": "Aesop Rock",
+    "id": "4xLYjJ2gRVvDbsp3c6JmzF",
+    "added_at": "2023-11-23T15:30:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 253
+  },
+  {
+    "name": "Salt and Pepper Squid",
+    "artist": "Aesop Rock",
+    "id": "5aGXZBFsJJVJJ3a2Pk0P55",
+    "added_at": "2023-11-23T15:30:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 250
+  },
+  {
+    "name": "Time Moves Differently Here",
+    "artist": "Aesop Rock",
+    "id": "3nO33BnbHIX1ugzpdVa3hl",
+    "added_at": "2023-11-23T15:30:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 228
+  },
+  {
+    "name": "Aggressive Steven",
+    "artist": "Aesop Rock",
+    "id": "3Of1uFcEz8DZQaezqBgRNf",
+    "added_at": "2023-11-23T15:30:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 318
+  },
+  {
+    "name": "Bermuda",
+    "artist": "Aesop Rock, Lealani",
+    "id": "1rXePP1MH3GqxQEKz3kGNi",
+    "added_at": "2023-11-23T15:30:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 197
+  },
+  {
+    "name": "By The River",
+    "artist": "Aesop Rock",
+    "id": "3fJsGxiQKS6ErameFm0sMq",
+    "added_at": "2023-11-23T15:30:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 158
+  },
+  {
+    "name": "All City Nerve Map",
+    "artist": "Aesop Rock",
+    "id": "7IFYBZ3Yq8desN9O6RNUVy",
+    "added_at": "2023-11-23T15:30:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 234
+  },
+  {
+    "name": "Forward Compatibility Engine",
+    "artist": "Aesop Rock, Rob Sonic",
+    "id": "2C2B1WGbP2axNwxxMfCzGq",
+    "added_at": "2023-11-23T15:30:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 232
+  },
+  {
+    "name": "On Failure",
+    "artist": "Aesop Rock",
+    "id": "0VLF8xYXf2CfyGIsWdrDIH",
+    "added_at": "2023-11-23T15:30:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 119
+  },
+  {
+    "name": "Solid Gold",
+    "artist": "Aesop Rock",
+    "id": "3R8gVpol2W4wTJqDkbeQtw",
+    "added_at": "2023-11-23T15:30:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 145
+  },
+  {
+    "name": "Vititus",
+    "artist": "Aesop Rock",
+    "id": "6DH2jd3ddsxQ07UgtDM8F2",
+    "added_at": "2023-11-23T15:30:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 248
+  },
+  {
+    "name": "Black Snow",
+    "artist": "Aesop Rock, Nikki Jean",
+    "id": "1swp5HFPlnZdtbiwRrjuFq",
+    "added_at": "2023-11-23T15:30:42Z",
+    "added_by": "goobz24",
+    "length_seconds": 292
+  },
+  {
+    "name": "Tantor",
+    "artist": "Danny Brown",
+    "id": "4blWf04kZwcfoXKuMiO2Lm",
+    "added_at": "2023-11-23T15:30:07Z",
+    "added_by": "goobz24",
+    "length_seconds": 148
+  },
+  {
+    "name": "Quaranta",
+    "artist": "Danny Brown",
+    "id": "7GqzDT97Bnn9MfGDYIWkrY",
+    "added_at": "2023-11-23T15:34:56Z",
+    "added_by": "goobz24",
+    "length_seconds": 159
+  },
+  {
+    "name": "Ain't My Concern",
+    "artist": "Danny Brown",
+    "id": "0F83A4TPdZdQMYNETNcSbD",
+    "added_at": "2023-11-23T15:34:56Z",
+    "added_by": "goobz24",
+    "length_seconds": 170
+  },
+  {
+    "name": "Dark Sword Angel",
+    "artist": "Danny Brown",
+    "id": "1ODOnrRAdszEe09dV2C7bv",
+    "added_at": "2023-11-23T15:34:56Z",
+    "added_by": "goobz24",
+    "length_seconds": 160
+  },
+  {
+    "name": "Y.B.P. (feat. Bruiser Wolf)",
+    "artist": "Danny Brown, Bruiser Wolf",
+    "id": "5BQHxZ7dOoyS2Vh9X02ows",
+    "added_at": "2023-11-23T15:34:56Z",
+    "added_by": "goobz24",
+    "length_seconds": 176
+  },
+  {
+    "name": "Jenn\u2019s Terrific Vacation (feat. Kassa Overall)",
+    "artist": "Danny Brown, Kassa Overall",
+    "id": "0qgyD9AhSKTkw8A3840sVj",
+    "added_at": "2023-11-23T15:34:56Z",
+    "added_by": "goobz24",
+    "length_seconds": 206
+  },
+  {
+    "name": "Down Wit It",
+    "artist": "Danny Brown",
+    "id": "3Ow6YGu5ILE47C8ldYE2N9",
+    "added_at": "2023-11-23T15:34:56Z",
+    "added_by": "goobz24",
+    "length_seconds": 160
+  },
+  {
+    "name": "Celibate (feat. MIKE)",
+    "artist": "Danny Brown, MIKE",
+    "id": "5pRasFa4XL3r45ePav7mMY",
+    "added_at": "2023-11-23T15:34:56Z",
+    "added_by": "goobz24",
+    "length_seconds": 238
+  },
+  {
+    "name": "Shakedown",
+    "artist": "Danny Brown",
+    "id": "4Ba1J8qxhOWi1ihiyaFQk9",
+    "added_at": "2023-11-23T15:34:56Z",
+    "added_by": "goobz24",
+    "length_seconds": 208
+  },
+  {
+    "name": "Hanami",
+    "artist": "Danny Brown",
+    "id": "5Oxhp6jxu8ax96LIsu8t3Q",
+    "added_at": "2023-11-23T15:34:56Z",
+    "added_by": "goobz24",
+    "length_seconds": 207
+  },
+  {
+    "name": "Bass Jam",
+    "artist": "Danny Brown",
+    "id": "6sLh9SFjc9eqRH51oPwAs2",
+    "added_at": "2023-11-23T15:34:56Z",
+    "added_by": "goobz24",
+    "length_seconds": 223
+  },
+  {
+    "name": "I swear, I Really Wanted To Make A \"Rap\" Album But This Is Literally The Way The Wind Blew Me This Time",
+    "artist": "Andr\u00e9 3000",
+    "id": "1lbjDy6IIerHFGZWKG0hno",
+    "added_at": "2023-11-23T15:35:06Z",
+    "added_by": "goobz24",
+    "length_seconds": 740
+  },
+  {
+    "name": "The Slang Word P(*)ssy Rolls Off The Tongue With Far Better Ease Than The Proper Word Vagina . Do You Agree?",
+    "artist": "Andr\u00e9 3000",
+    "id": "53JuszD36WgJTr4Rdq7kjO",
+    "added_at": "2023-11-23T15:35:06Z",
+    "added_by": "goobz24",
+    "length_seconds": 830
+  },
+  {
+    "name": "That Night In Hawaii When I Turned Into A Panther And Started Making These Low Register Purring Tones That I Couldn't Control ... Sh\u00a5t Was Wild",
+    "artist": "Andr\u00e9 3000",
+    "id": "7763zdQtsUXNRKMDbahyK5",
+    "added_at": "2023-11-23T15:35:06Z",
+    "added_by": "goobz24",
+    "length_seconds": 629
+  },
+  {
+    "name": "BuyPoloDisorder's Daughter Wears A 3000\u00ae Shirt Embroidered",
+    "artist": "Andr\u00e9 3000",
+    "id": "1D7g7ZejXNy4GdbDAPSg2i",
+    "added_at": "2023-11-23T15:35:06Z",
+    "added_by": "goobz24",
+    "length_seconds": 785
+  },
+  {
+    "name": "Ninety Three 'Til Infinity And Beyonc\u00e9",
+    "artist": "Andr\u00e9 3000",
+    "id": "0LVCuBsPmGaYvGV3IOMXFy",
+    "added_at": "2023-11-23T15:35:06Z",
+    "added_by": "goobz24",
+    "length_seconds": 229
+  },
+  {
+    "name": "Ghandi, Dalai Lama, Your Lord & Savior J.C. / Bundy, Jeffrey Dahmer, And John Wayne Gacy",
+    "artist": "Andr\u00e9 3000",
+    "id": "0QEKbAkpB9Q5YUjdKWIt1f",
+    "added_at": "2023-11-23T15:35:06Z",
+    "added_by": "goobz24",
+    "length_seconds": 615
+  },
+  {
+    "name": "Ants To You, Gods To Who ?",
+    "artist": "Andr\u00e9 3000",
+    "id": "1M4x0ug19s7nSFYzjhBKTI",
+    "added_at": "2023-11-23T15:35:06Z",
+    "added_by": "goobz24",
+    "length_seconds": 402
+  },
+  {
+    "name": "Dreams Once Buried Beneath The Dungeon Floor Slowly Sprout Into Undying Gardens",
+    "artist": "Andr\u00e9 3000",
+    "id": "5lvdCRZG3XyQ7Ea0oKclCP",
+    "added_at": "2023-11-23T15:35:06Z",
+    "added_by": "goobz24",
+    "length_seconds": 1031
+  },
+  {
+    "name": "Scene 1: Welcome 2 Collegrove",
+    "artist": "2 Chainz, Lil Wayne",
+    "id": "3NtVkJuquFnt71pyyGCRwU",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 49
+  },
+  {
+    "name": "G6",
+    "artist": "2 Chainz, Lil Wayne",
+    "id": "3B8H4a3H0LAFEYShdN6Ak8",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 184
+  },
+  {
+    "name": "Big Diamonds (feat. 21 Savage)",
+    "artist": "2 Chainz, Lil Wayne, 21 Savage",
+    "id": "5FDc4ljIWyW8wClzt54dhs",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 199
+  },
+  {
+    "name": "Presha",
+    "artist": "2 Chainz, Lil Wayne",
+    "id": "2tvYu1CPNCTmViowWzGw86",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 185
+  },
+  {
+    "name": "Long Story Short",
+    "artist": "2 Chainz, Lil Wayne",
+    "id": "6LVNGPtSPpc4KDFjvLS8c1",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 210
+  },
+  {
+    "name": "Scene 2: Duffle Bag Boys",
+    "artist": "2 Chainz, Lil Wayne",
+    "id": "40mmx0lt9nVyWfzqueqOOG",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 29
+  },
+  {
+    "name": "Millions From Now",
+    "artist": "2 Chainz, Lil Wayne",
+    "id": "1CXZZX9uwsTw2FI6inq8l8",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 139
+  },
+  {
+    "name": "Crazy Thick",
+    "artist": "2 Chainz, Lil Wayne",
+    "id": "0e64iI4dSl3NyF2Wo1WYDH",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 176
+  },
+  {
+    "name": "Transparency (feat. USHER)",
+    "artist": "2 Chainz, Lil Wayne, USHER",
+    "id": "4f5rBgdoka8ffiFAX9GNuO",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 195
+  },
+  {
+    "name": "Significant Other",
+    "artist": "2 Chainz, Lil Wayne",
+    "id": "73najUlS2hEb4KDRM1rPoo",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 263
+  },
+  {
+    "name": "Scene 3: Ladies Man",
+    "artist": "2 Chainz, Lil Wayne",
+    "id": "0840sEZ4147P6MptNh92i3",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 31
+  },
+  {
+    "name": "P.P.A. (feat. Fabolous)",
+    "artist": "2 Chainz, Lil Wayne, Fabolous",
+    "id": "7pmkOYSaUvaA39nWnHcqmj",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 220
+  },
+  {
+    "name": "Oprah & Gayle (feat. Benny The Butcher)",
+    "artist": "2 Chainz, Lil Wayne, Benny The Butcher",
+    "id": "0CFqRIdR0LbMGGHSjTaQYt",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 313
+  },
+  {
+    "name": "Shame",
+    "artist": "2 Chainz, Lil Wayne",
+    "id": "1rY44MmPhqik4SwVlxoRn1",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 156
+  },
+  {
+    "name": "Bars",
+    "artist": "2 Chainz, Lil Wayne",
+    "id": "37F2fAgA8zZB0xuM2Ht1Pw",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 222
+  },
+  {
+    "name": "Scene 4: No Fent",
+    "artist": "2 Chainz, Lil Wayne",
+    "id": "2Kz6X5EPDDiADLoUd71lbm",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 28
+  },
+  {
+    "name": "Godzilla (feat. Vory)",
+    "artist": "2 Chainz, Lil Wayne, Vory",
+    "id": "5dPyXn2TmlNm6ySOWrzzZo",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 182
+  },
+  {
+    "name": "Crown Snatcher",
+    "artist": "2 Chainz, Lil Wayne",
+    "id": "25ehmvLg5D5TH0sd6RabSu",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 156
+  },
+  {
+    "name": "Can't Believe You (feat. Rick Ross)",
+    "artist": "2 Chainz, Lil Wayne, Rick Ross",
+    "id": "3IJvOlD148GJUq8vAkt3Sv",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 279
+  },
+  {
+    "name": "Scene 5: Never Was Lost",
+    "artist": "2 Chainz, Lil Wayne",
+    "id": "2iPPv4OHNJYp1welzaX4Tz",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 14
+  },
+  {
+    "name": "Moonlight (feat. Marsha Ambrosius)",
+    "artist": "2 Chainz, Lil Wayne, Marsha Ambrosius",
+    "id": "2RewLagWn0GgJUQjSD0Mj4",
+    "added_at": "2023-12-22T12:18:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 228
+  }
+]

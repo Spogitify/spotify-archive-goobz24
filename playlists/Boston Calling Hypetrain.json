@@ -1,0 +1,770 @@
+[
+  {
+    "name": "Fight Test",
+    "artist": "The Flaming Lips",
+    "id": "0ScgmigVOJr2mFsAtwFQmz",
+    "added_at": "2023-05-24T14:33:10Z",
+    "added_by": "goobz24",
+    "length_seconds": 256
+  },
+  {
+    "name": "One More Robot / Sympathy 3000-21",
+    "artist": "The Flaming Lips",
+    "id": "1esrPCrpjJhubSqRtNz5Yw",
+    "added_at": "2023-05-24T14:33:10Z",
+    "added_by": "goobz24",
+    "length_seconds": 299
+  },
+  {
+    "name": "Yoshimi Battles the Pink Robots, Pt. 1",
+    "artist": "The Flaming Lips",
+    "id": "0ccCwNzXvr1Yoz91vKz31Z",
+    "added_at": "2023-05-24T14:33:10Z",
+    "added_by": "goobz24",
+    "length_seconds": 287
+  },
+  {
+    "name": "Yoshimi Battles the Pink Robots, Pt. 2",
+    "artist": "The Flaming Lips",
+    "id": "1tCf9F4e0V7oIP7oPbm5rr",
+    "added_at": "2023-05-24T14:33:10Z",
+    "added_by": "goobz24",
+    "length_seconds": 177
+  },
+  {
+    "name": "In the Morning of the Magicians",
+    "artist": "The Flaming Lips",
+    "id": "4ou3f7jaB41isbJkt6CF2b",
+    "added_at": "2023-05-24T14:33:10Z",
+    "added_by": "goobz24",
+    "length_seconds": 379
+  },
+  {
+    "name": "Ego Tripping at the Gates of Hell",
+    "artist": "The Flaming Lips",
+    "id": "4xTaOn06UiRHkq2ZUjWIqI",
+    "added_at": "2023-05-24T14:33:10Z",
+    "added_by": "goobz24",
+    "length_seconds": 271
+  },
+  {
+    "name": "Are You a Hypnotist??",
+    "artist": "The Flaming Lips",
+    "id": "0UQnWjRKEphlQtzeZ83lC2",
+    "added_at": "2023-05-24T14:33:10Z",
+    "added_by": "goobz24",
+    "length_seconds": 283
+  },
+  {
+    "name": "It's Summertime",
+    "artist": "The Flaming Lips",
+    "id": "4bTXFLSWqZiUrrXD202tVG",
+    "added_at": "2023-05-24T14:33:10Z",
+    "added_by": "goobz24",
+    "length_seconds": 260
+  },
+  {
+    "name": "Do You Realize??",
+    "artist": "The Flaming Lips",
+    "id": "2DFRFqWNahKtFD112H2iEZ",
+    "added_at": "2023-05-24T14:33:10Z",
+    "added_by": "goobz24",
+    "length_seconds": 213
+  },
+  {
+    "name": "All We Have Is Now",
+    "artist": "The Flaming Lips",
+    "id": "2cVj88Q5SL5bZa8O2iFrDL",
+    "added_at": "2023-05-24T14:33:10Z",
+    "added_by": "goobz24",
+    "length_seconds": 233
+  },
+  {
+    "name": "Approaching Pavonis Mons by Balloon (Utopia Planitia)",
+    "artist": "The Flaming Lips",
+    "id": "7zq5lyei1uoskShdtxQO1o",
+    "added_at": "2023-05-24T14:33:10Z",
+    "added_by": "goobz24",
+    "length_seconds": 189
+  },
+  {
+    "name": "For a Pessimist, I'm Pretty Optimistic",
+    "artist": "Paramore",
+    "id": "2PDLmgDWiwjUTxl1pPyDQA",
+    "added_at": "2023-05-24T14:33:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 228
+  },
+  {
+    "name": "That's What You Get",
+    "artist": "Paramore",
+    "id": "1JdKrFyoU05abww0Zv0ayQ",
+    "added_at": "2023-05-24T14:33:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 220
+  },
+  {
+    "name": "Hallelujah",
+    "artist": "Paramore",
+    "id": "35YZB3NoKwJezIXb1OWaJd",
+    "added_at": "2023-05-24T14:33:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 203
+  },
+  {
+    "name": "Misery Business",
+    "artist": "Paramore",
+    "id": "6SpLc7EXZIPpy0sVko0aoU",
+    "added_at": "2023-05-24T14:33:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 211
+  },
+  {
+    "name": "When It Rains",
+    "artist": "Paramore",
+    "id": "2owXQZEmYfwbUXzaliVSpj",
+    "added_at": "2023-05-24T14:33:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 215
+  },
+  {
+    "name": "Let the Flames Begin",
+    "artist": "Paramore",
+    "id": "7fx2rt43UfclOOulPwBYk2",
+    "added_at": "2023-05-24T14:33:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 198
+  },
+  {
+    "name": "Miracle",
+    "artist": "Paramore",
+    "id": "7tCnwq0Fy85y1tWktmXQ7u",
+    "added_at": "2023-05-24T14:33:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 209
+  },
+  {
+    "name": "crushcrushcrush",
+    "artist": "Paramore",
+    "id": "3VA4sjTMSTTF02hFGmlpJh",
+    "added_at": "2023-05-24T14:33:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 189
+  },
+  {
+    "name": "We Are Broken",
+    "artist": "Paramore",
+    "id": "3QCNDusgteS3LdSpjLZdli",
+    "added_at": "2023-05-24T14:33:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 218
+  },
+  {
+    "name": "Fences",
+    "artist": "Paramore",
+    "id": "4aICBAAFGF3pLSZDlmsMj9",
+    "added_at": "2023-05-24T14:33:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 198
+  },
+  {
+    "name": "Born for This",
+    "artist": "Paramore",
+    "id": "4JFTOshl2tCk379jFm9eyy",
+    "added_at": "2023-05-24T14:33:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 238
+  },
+  {
+    "name": "Misery Business - Acoustic Version",
+    "artist": "Paramore",
+    "id": "3CFIo5d0MJM4xergOijeYD",
+    "added_at": "2023-05-24T14:33:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 194
+  },
+  {
+    "name": "Monkey Wrench",
+    "artist": "Foo Fighters",
+    "id": "44wXefe8WB9Fd6xwtmAwbR",
+    "added_at": "2023-05-24T14:34:40Z",
+    "added_by": "goobz24",
+    "length_seconds": 231
+  },
+  {
+    "name": "My Hero",
+    "artist": "Foo Fighters",
+    "id": "4dVbhS6OiYvFikshyaQaCN",
+    "added_at": "2023-05-24T14:34:46Z",
+    "added_by": "goobz24",
+    "length_seconds": 260
+  },
+  {
+    "name": "Everlong",
+    "artist": "Foo Fighters",
+    "id": "5UWwZ5lm5PKu6eKsHAGxOk",
+    "added_at": "2023-05-24T14:34:52Z",
+    "added_by": "goobz24",
+    "length_seconds": 250
+  },
+  {
+    "name": "Big Me",
+    "artist": "Foo Fighters",
+    "id": "6pb5BBnIM5IM7R1cqag6rE",
+    "added_at": "2023-05-24T14:35:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 132
+  },
+  {
+    "name": "Rope",
+    "artist": "Foo Fighters",
+    "id": "7v0mtl6oInUtHOmTk2b0gC",
+    "added_at": "2023-05-24T14:35:13Z",
+    "added_by": "goobz24",
+    "length_seconds": 259
+  },
+  {
+    "name": "White Limo",
+    "artist": "Foo Fighters",
+    "id": "57dem1V7wz8owejklpELCh",
+    "added_at": "2023-05-24T14:35:17Z",
+    "added_by": "goobz24",
+    "length_seconds": 202
+  },
+  {
+    "name": "Walk",
+    "artist": "Foo Fighters",
+    "id": "76Je5Wklky23mVoxiRszcN",
+    "added_at": "2023-05-24T14:35:22Z",
+    "added_by": "goobz24",
+    "length_seconds": 255
+  },
+  {
+    "name": "The Pretender",
+    "artist": "Foo Fighters",
+    "id": "7x8dCjCr0x6x2lXKujYD34",
+    "added_at": "2023-05-24T14:35:31Z",
+    "added_by": "goobz24",
+    "length_seconds": 269
+  },
+  {
+    "name": "Let It Die",
+    "artist": "Foo Fighters",
+    "id": "2XvrMHbSO077Ajg7QTTNdY",
+    "added_at": "2023-05-24T14:35:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 244
+  },
+  {
+    "name": "Run",
+    "artist": "Foo Fighters",
+    "id": "1wLQwg0mloy3yXjL0jPE0N",
+    "added_at": "2023-05-24T14:36:53Z",
+    "added_by": "goobz24",
+    "length_seconds": 323
+  },
+  {
+    "name": "Best of You",
+    "artist": "Foo Fighters",
+    "id": "5FZxsHWIvUsmSK1IAvm2pp",
+    "added_at": "2023-05-24T14:37:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 255
+  },
+  {
+    "name": "Learn to Fly",
+    "artist": "Foo Fighters",
+    "id": "5OQsiBsky2k2kDKy2bX2eT",
+    "added_at": "2023-05-24T14:37:23Z",
+    "added_by": "goobz24",
+    "length_seconds": 235
+  },
+  {
+    "name": "All My Life",
+    "artist": "Foo Fighters",
+    "id": "6tsojOQ5wHaIjKqIryLZK6",
+    "added_at": "2023-05-24T14:37:28Z",
+    "added_by": "goobz24",
+    "length_seconds": 263
+  },
+  {
+    "name": "Times Like These",
+    "artist": "Foo Fighters",
+    "id": "67vYdAAM3oGsEImCRfbtsF",
+    "added_at": "2023-05-24T14:37:33Z",
+    "added_by": "goobz24",
+    "length_seconds": 265
+  },
+  {
+    "name": "Wheels",
+    "artist": "Foo Fighters",
+    "id": "3KsatAMRt1a7iryhWt5I8U",
+    "added_at": "2023-05-24T14:37:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 278
+  },
+  {
+    "name": "This Is a Call",
+    "artist": "Foo Fighters",
+    "id": "2wO8aOvN1ogLy1N8XT1WJE",
+    "added_at": "2023-05-24T14:38:21Z",
+    "added_by": "goobz24",
+    "length_seconds": 233
+  },
+  {
+    "name": "Still into You",
+    "artist": "Paramore",
+    "id": "1yjY7rpaAQvKwpdUliHx0d",
+    "added_at": "2023-05-24T14:39:52Z",
+    "added_by": "goobz24",
+    "length_seconds": 216
+  },
+  {
+    "name": "The Only Exception",
+    "artist": "Paramore",
+    "id": "7JIuqL4ZqkpfGKQhYlrirs",
+    "added_at": "2023-05-24T14:39:55Z",
+    "added_by": "goobz24",
+    "length_seconds": 267
+  },
+  {
+    "name": "Decode",
+    "artist": "Paramore",
+    "id": "1ZLtE9tSJdaUiIJ9YoKHQe",
+    "added_at": "2023-05-24T14:39:58Z",
+    "added_by": "goobz24",
+    "length_seconds": 261
+  },
+  {
+    "name": "Ignorance",
+    "artist": "Paramore",
+    "id": "47No93LxERvV6MtOAmQzHS",
+    "added_at": "2023-05-24T14:40:20Z",
+    "added_by": "goobz24",
+    "length_seconds": 218
+  },
+  {
+    "name": "Hard Times",
+    "artist": "Paramore",
+    "id": "0w5Bdu51Ka25Pf3hojsKHh",
+    "added_at": "2023-05-24T14:40:36Z",
+    "added_by": "goobz24",
+    "length_seconds": 182
+  },
+  {
+    "name": "Robot Stop",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "4bbZcD92nLvQnbrblZTS1K",
+    "added_at": "2023-05-24T14:41:18Z",
+    "added_by": "goobz24",
+    "length_seconds": 322
+  },
+  {
+    "name": "Big Fig Wasp",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "1dYHMsuRUIPXHkOZbT8HQ0",
+    "added_at": "2023-05-24T14:41:23Z",
+    "added_by": "goobz24",
+    "length_seconds": 294
+  },
+  {
+    "name": "Gamma Knife",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "0yxzfsmzMOCRhbHBpFjXzL",
+    "added_at": "2023-05-24T14:41:26Z",
+    "added_by": "goobz24",
+    "length_seconds": 261
+  },
+  {
+    "name": "Interior People",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "3tj1cKu9SOnchX6twBKn30",
+    "added_at": "2023-05-24T14:41:43Z",
+    "added_by": "goobz24",
+    "length_seconds": 315
+  },
+  {
+    "name": "Catching Smoke",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "4soZjBWp9Xxri3tkdnyEP5",
+    "added_at": "2023-05-24T14:41:46Z",
+    "added_by": "goobz24",
+    "length_seconds": 388
+  },
+  {
+    "name": "Will You Return / When You Come Down",
+    "artist": "The Flaming Lips",
+    "id": "7q6R9K9JTzrhs5J3x9okjF",
+    "added_at": "2023-05-24T14:44:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 321
+  },
+  {
+    "name": "Watching the Lightbugs Glow",
+    "artist": "The Flaming Lips",
+    "id": "5fnw3zHkISO51Bz0oekZ0S",
+    "added_at": "2023-05-24T14:44:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 173
+  },
+  {
+    "name": "Flowers of Neptune 6",
+    "artist": "The Flaming Lips",
+    "id": "70ZIgslLwMTfNRBO8Kox6A",
+    "added_at": "2023-05-24T14:44:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 270
+  },
+  {
+    "name": "Dinosaurs on the Mountain",
+    "artist": "The Flaming Lips",
+    "id": "26AGfRDqGHoEAtcMCS9YOp",
+    "added_at": "2023-05-24T14:44:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 218
+  },
+  {
+    "name": "At the Movies on Quaaludes",
+    "artist": "The Flaming Lips",
+    "id": "4M1IQ6dTFqgtrRHlEqYDAH",
+    "added_at": "2023-05-24T14:44:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 221
+  },
+  {
+    "name": "Mother I've Taken LSD",
+    "artist": "The Flaming Lips",
+    "id": "5Ej9RvPZEbt8bkPNZIEmJN",
+    "added_at": "2023-05-24T14:44:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 228
+  },
+  {
+    "name": "Brother Eye",
+    "artist": "The Flaming Lips",
+    "id": "2AxbKdBL0CapNKhLSjAHma",
+    "added_at": "2023-05-24T14:44:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 263
+  },
+  {
+    "name": "You n Me Sellin' Weed",
+    "artist": "The Flaming Lips",
+    "id": "1WnylSTtdaO7QHgwyM20fJ",
+    "added_at": "2023-05-24T14:44:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 296
+  },
+  {
+    "name": "Mother Please Don't Be Sad",
+    "artist": "The Flaming Lips",
+    "id": "1iGOHakhpcD12c91n8I4wx",
+    "added_at": "2023-05-24T14:44:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 215
+  },
+  {
+    "name": "When We Die When We're High",
+    "artist": "The Flaming Lips",
+    "id": "7mDrSUct7fKVNoXwXIn5TJ",
+    "added_at": "2023-05-24T14:44:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 219
+  },
+  {
+    "name": "Assassins of Youth",
+    "artist": "The Flaming Lips",
+    "id": "57aUwWpLPYIy0EU0LdtxJA",
+    "added_at": "2023-05-24T14:44:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 252
+  },
+  {
+    "name": "God and the Policeman (feat. Kacey Musgraves)",
+    "artist": "The Flaming Lips, Kacey Musgraves",
+    "id": "47DIsNG580UbcPPLSIWS6l",
+    "added_at": "2023-05-24T14:44:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 148
+  },
+  {
+    "name": "My Religion Is You",
+    "artist": "The Flaming Lips",
+    "id": "0DgfkDuhXqy3E79esKm78X",
+    "added_at": "2023-05-24T14:44:49Z",
+    "added_by": "goobz24",
+    "length_seconds": 213
+  },
+  {
+    "name": "This Is Why",
+    "artist": "Paramore",
+    "id": "7HdXRMw14roDx2a0COWk3M",
+    "added_at": "2023-05-24T14:44:54Z",
+    "added_by": "goobz24",
+    "length_seconds": 206
+  },
+  {
+    "name": "The News",
+    "artist": "Paramore",
+    "id": "59RjIhWIpthNpwrlChUvXm",
+    "added_at": "2023-05-24T14:44:54Z",
+    "added_by": "goobz24",
+    "length_seconds": 187
+  },
+  {
+    "name": "Running Out Of Time",
+    "artist": "Paramore",
+    "id": "5NRtdsFFlmyE8qDMgS08PE",
+    "added_at": "2023-05-24T14:44:54Z",
+    "added_by": "goobz24",
+    "length_seconds": 192
+  },
+  {
+    "name": "C\u2019est Comme \u00c7a",
+    "artist": "Paramore",
+    "id": "1Nx7KvCw6D3O0W2HwYg9tq",
+    "added_at": "2023-05-24T14:44:54Z",
+    "added_by": "goobz24",
+    "length_seconds": 149
+  },
+  {
+    "name": "Big Man, Little Dignity",
+    "artist": "Paramore",
+    "id": "2bfOeIn8bQkRr02NNX29tR",
+    "added_at": "2023-05-24T14:44:54Z",
+    "added_by": "goobz24",
+    "length_seconds": 260
+  },
+  {
+    "name": "You First",
+    "artist": "Paramore",
+    "id": "2ZMkAWKrNDXrQuF0N9Q9Xj",
+    "added_at": "2023-05-24T14:44:54Z",
+    "added_by": "goobz24",
+    "length_seconds": 245
+  },
+  {
+    "name": "Figure 8",
+    "artist": "Paramore",
+    "id": "2Jb3hVkRFoiiwXYcELiBfC",
+    "added_at": "2023-05-24T14:44:54Z",
+    "added_by": "goobz24",
+    "length_seconds": 204
+  },
+  {
+    "name": "Liar",
+    "artist": "Paramore",
+    "id": "7EUhSxz4srS8pqh1cENbLB",
+    "added_at": "2023-05-24T14:44:54Z",
+    "added_by": "goobz24",
+    "length_seconds": 261
+  },
+  {
+    "name": "Crave",
+    "artist": "Paramore",
+    "id": "7wYCva1bI1AkHRQoVXhy8F",
+    "added_at": "2023-05-24T14:44:54Z",
+    "added_by": "goobz24",
+    "length_seconds": 235
+  },
+  {
+    "name": "Thick Skull",
+    "artist": "Paramore",
+    "id": "0M2SX26YicKMOAxqtWGPUh",
+    "added_at": "2023-05-24T14:44:54Z",
+    "added_by": "goobz24",
+    "length_seconds": 232
+  },
+  {
+    "name": "The Dripping Tap",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "0o6rOggbaLEvtwUHNztuD2",
+    "added_at": "2023-05-24T14:45:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 1097
+  },
+  {
+    "name": "Magenta Mountain",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "23azGRczkSa6JF9JKKiBh2",
+    "added_at": "2023-05-24T14:45:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 364
+  },
+  {
+    "name": "Kepler-22b",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "1d7amkMBfY5jwDaVYpWKUv",
+    "added_at": "2023-05-24T14:45:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 192
+  },
+  {
+    "name": "Gaia",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "6TpOpsgXwMvm0bSkdq27EC",
+    "added_at": "2023-05-24T14:45:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 311
+  },
+  {
+    "name": "Ambergris",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "5sLL7hWj9qTGlO6MIUEnk4",
+    "added_at": "2023-05-24T14:45:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 267
+  },
+  {
+    "name": "Sadie Sorceress",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "6AcCvbJxR4PO6Fzv0UYdyW",
+    "added_at": "2023-05-24T14:45:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 187
+  },
+  {
+    "name": "Evilest Man",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "4CiIQIyFf0TR29jnvvQ9NQ",
+    "added_at": "2023-05-24T14:45:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 458
+  },
+  {
+    "name": "The Garden Goblin",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "2W3GEjnvWryAeUEqmNYRlR",
+    "added_at": "2023-05-24T14:45:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 176
+  },
+  {
+    "name": "Blame It On The Weather",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "1vh2fa89nOKLKJlrhLs6cL",
+    "added_at": "2023-05-24T14:45:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 151
+  },
+  {
+    "name": "Persistence",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "1Zmi9ADrlNq0X8MmJIcbTN",
+    "added_at": "2023-05-24T14:45:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 227
+  },
+  {
+    "name": "The Grim Reaper",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "0ECiluD6uszk2zjph2pyEp",
+    "added_at": "2023-05-24T14:45:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 185
+  },
+  {
+    "name": "Presumptuous",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "6xoN3e0MNA43kVcKGwK9Y4",
+    "added_at": "2023-05-24T14:45:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 293
+  },
+  {
+    "name": "Predator X",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "5Rf9JILgZNODI0dnufYRW9",
+    "added_at": "2023-05-24T14:45:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 225
+  },
+  {
+    "name": "Red Smoke",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "44KDH0F0smqMcRqzTt3P65",
+    "added_at": "2023-05-24T14:45:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 261
+  },
+  {
+    "name": "Candles",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "7wqDXSLMhBI1pQ3P3hx3A9",
+    "added_at": "2023-05-24T14:45:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 274
+  },
+  {
+    "name": "The Funeral",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "2syoVYOvJnsNU5dpriVsok",
+    "added_at": "2023-05-24T14:45:03Z",
+    "added_by": "goobz24",
+    "length_seconds": 143
+  },
+  {
+    "name": "Gila Monster",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "7zHiG2FFEpeGvBmJkgZzVv",
+    "added_at": "2023-05-24T14:45:12Z",
+    "added_by": "goobz24",
+    "length_seconds": 275
+  },
+  {
+    "name": "Mycelium",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "5BkO8Wp1ssLb60S7cF35KX",
+    "added_at": "2023-05-24T19:40:33Z",
+    "added_by": "goobz24",
+    "length_seconds": 455
+  },
+  {
+    "name": "Ice V",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "36XAknfUMQYgAPfIJkTed0",
+    "added_at": "2023-05-24T19:40:33Z",
+    "added_by": "goobz24",
+    "length_seconds": 615
+  },
+  {
+    "name": "Magma",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "5nXO28PQrL5unzmFUJrdlT",
+    "added_at": "2023-05-24T19:40:33Z",
+    "added_by": "goobz24",
+    "length_seconds": 546
+  },
+  {
+    "name": "Lava",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "3TSmyuu9P8XZ7j1Qjf30ZH",
+    "added_at": "2023-05-24T19:40:33Z",
+    "added_by": "goobz24",
+    "length_seconds": 401
+  },
+  {
+    "name": "Hell's Itch",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "1twyQJ6Zw0mORg0haUwg4o",
+    "added_at": "2023-05-24T19:40:33Z",
+    "added_by": "goobz24",
+    "length_seconds": 807
+  },
+  {
+    "name": "Iron Lung",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "2GfQhXyoUXYTkMHDXJhCU5",
+    "added_at": "2023-05-24T19:40:33Z",
+    "added_by": "goobz24",
+    "length_seconds": 544
+  },
+  {
+    "name": "Gliese 710",
+    "artist": "King Gizzard & The Lizard Wizard",
+    "id": "2VgVTbT3BUPmrMYPo0Dd9N",
+    "added_at": "2023-05-24T19:40:33Z",
+    "added_by": "goobz24",
+    "length_seconds": 468
+  }
+]

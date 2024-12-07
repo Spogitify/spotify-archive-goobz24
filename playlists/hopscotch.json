@@ -1,0 +1,778 @@
+[
+  {
+    "name": "Let Her Go",
+    "artist": "Mac DeMarco",
+    "id": "7KmawNv6JUgZ54gSyVF6VQ",
+    "added_at": "2017-11-06T00:25:24Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 182
+  },
+  {
+    "name": "Eastover Wives",
+    "artist": "Dent May",
+    "id": "5norS5s3194AxOdIHn1Tyb",
+    "added_at": "2017-11-30T22:21:21Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 297
+  },
+  {
+    "name": "This Charming Man - 2011 Remaster",
+    "artist": "The Smiths",
+    "id": "1FvDJ9KGxcqwv1utyPL3JZ",
+    "added_at": "2018-01-24T22:15:10Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 162
+  },
+  {
+    "name": "Peace Frog",
+    "artist": "The Doors",
+    "id": "5piJiL6aRhvrKBa9YuEfS9",
+    "added_at": "2018-03-16T12:50:47Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 170
+  },
+  {
+    "name": "Going Gets Tough",
+    "artist": "The Growlers",
+    "id": "01MO5Ib9mCG7srUhZl52BA",
+    "added_at": "2018-03-31T11:20:03Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 208
+  },
+  {
+    "name": "Cinnamon",
+    "artist": "Palehound",
+    "id": "5hRm3jPT463zpu94TMgCpO",
+    "added_at": "2018-04-02T00:44:42Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 214
+  },
+  {
+    "name": "Heart Killer",
+    "artist": "Dr. Dog",
+    "id": "0jJpD0ah0d1ttkIOQcUbdu",
+    "added_at": "2018-04-10T17:44:37Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 213
+  },
+  {
+    "name": "Parking Lots",
+    "artist": "Plums",
+    "id": "3MGkU9iwnb6ziAcPul5dSv",
+    "added_at": "2018-04-18T03:32:40Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 206
+  },
+  {
+    "name": "Colored Emotions",
+    "artist": "Night Moves",
+    "id": "1YCt0tIYzY5zNWAF9HkaqG",
+    "added_at": "2018-04-20T17:06:08Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 259
+  },
+  {
+    "name": "Someday",
+    "artist": "The Growlers",
+    "id": "5uplevkaUGRLExATEbSQiR",
+    "added_at": "2018-05-05T00:41:58Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 215
+  },
+  {
+    "name": "Talk",
+    "artist": "Vodi",
+    "id": "5ftNz1MRho5sV0hPQplnAe",
+    "added_at": "2018-05-06T16:57:46Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 228
+  },
+  {
+    "name": "Sun Medallion",
+    "artist": "King Tuff",
+    "id": "2avVVXPzzk3aRD63rMr5SG",
+    "added_at": "2018-05-09T00:24:14Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 150
+  },
+  {
+    "name": "Little Lies - 2017 Remaster",
+    "artist": "Fleetwood Mac",
+    "id": "4CoSCPlKNrWli7E5kFtbcl",
+    "added_at": "2018-05-13T17:21:36Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 221
+  },
+  {
+    "name": "Real Love Baby",
+    "artist": "Father John Misty",
+    "id": "6YDf6QV7QfCEo8O2dbWalK",
+    "added_at": "2018-05-13T17:36:12Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 189
+  },
+  {
+    "name": "Windows",
+    "artist": "Sugar Candy Mountain",
+    "id": "6jvqaaUtBmcnxQnf5XKzFo",
+    "added_at": "2018-06-19T22:12:55Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 192
+  },
+  {
+    "name": "After the Moment",
+    "artist": "Craft Spells",
+    "id": "5ozIJrlaCAf3g8MMyot483",
+    "added_at": "2018-06-26T22:10:33Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 240
+  },
+  {
+    "name": "Loving Machine",
+    "artist": "TV Girl",
+    "id": "6QPzHlgKn3lyfaGNRjOQzx",
+    "added_at": "2018-07-16T17:04:08Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 227
+  },
+  {
+    "name": "4EVER",
+    "artist": "Clairo",
+    "id": "5mIOsPuQdXchVY0jB5NO9Q",
+    "added_at": "2018-07-16T17:10:32Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 159
+  },
+  {
+    "name": "Note to Self",
+    "artist": "Mild High Club",
+    "id": "4jaEiBXMjgpAtsFM2zBYEB",
+    "added_at": "2018-07-16T17:25:30Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 140
+  },
+  {
+    "name": "Homage",
+    "artist": "Mild High Club",
+    "id": "7pegxVesMmE2qK0o58xoFG",
+    "added_at": "2018-07-19T03:53:47Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 177
+  },
+  {
+    "name": "Wednesday",
+    "artist": "Good Morning",
+    "id": "3PaeOar0UeLiyigqJfNAfN",
+    "added_at": "2018-07-20T04:30:55Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 143
+  },
+  {
+    "name": "Heart It Races - Cover Version",
+    "artist": "Dr. Dog",
+    "id": "2vupkXhwL4sNCRgNu72HCZ",
+    "added_at": "2018-08-18T01:20:09Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 233
+  },
+  {
+    "name": "Prune, You Talk Funny",
+    "artist": "Gus Dapperton",
+    "id": "4a6r6d9mfcUQbOnrGf8jAV",
+    "added_at": "2018-08-24T01:41:52Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 212
+  },
+  {
+    "name": "I'm Just Snacking",
+    "artist": "Gus Dapperton",
+    "id": "4q3KkucNQOahEc2e8ZzxWL",
+    "added_at": "2018-08-28T02:40:20Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 198
+  },
+  {
+    "name": "I'll Be Around",
+    "artist": "The Growlers",
+    "id": "0JxNCIvcLphN1oAafpvDWW",
+    "added_at": "2018-09-01T13:19:02Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 287
+  },
+  {
+    "name": "Catamaran",
+    "artist": "Allah-Las",
+    "id": "3tTsHrJBgM1tfqE6eFMDQ5",
+    "added_at": "2018-09-01T13:20:57Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 212
+  },
+  {
+    "name": "Ozma",
+    "artist": "Shannon & The Clams",
+    "id": "5ZkVrmcXpByn8ab9I44Cnj",
+    "added_at": "2018-09-06T17:00:03Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 207
+  },
+  {
+    "name": "Just to Put Me Down",
+    "artist": "Mac DeMarco",
+    "id": "1gfLXyCT1B4WY3lWrvcUiX",
+    "added_at": "2018-09-21T14:50:05Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 198
+  },
+  {
+    "name": "A Wolf Who Wears Sheeps Clothes - Demo",
+    "artist": "Mac DeMarco",
+    "id": "48yt4QfNArLZKJLuozFRqZ",
+    "added_at": "2018-09-24T16:46:01Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 142
+  },
+  {
+    "name": "Glimmer",
+    "artist": "Peach Fur",
+    "id": "3bSgz6zDGECjLllzA6g4rP",
+    "added_at": "2018-10-03T17:29:08Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 147
+  },
+  {
+    "name": "Our Place",
+    "artist": "Verge Collection",
+    "id": "1otCBKOVAZrJmfMHnEFPoH",
+    "added_at": "2018-10-05T13:26:56Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 184
+  },
+  {
+    "name": "A Night out With",
+    "artist": "Hockey Dad",
+    "id": "3GnhahUUOQ0D65ewyWW08Z",
+    "added_at": "2018-10-05T13:27:08Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 194
+  },
+  {
+    "name": "Worried Times",
+    "artist": "Francobollo",
+    "id": "2xkyjdLLulYD8FqBhPdono",
+    "added_at": "2018-10-05T13:27:41Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 276
+  },
+  {
+    "name": "Panopticon",
+    "artist": "Cloud Control",
+    "id": "2iP2nna1gZvE8OQTEB2pX0",
+    "added_at": "2018-10-05T13:27:50Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 203
+  },
+  {
+    "name": "Waves",
+    "artist": "Calpurnia",
+    "id": "125UapVGAU3k4iBqSQsIe5",
+    "added_at": "2018-11-03T21:30:06Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 400
+  },
+  {
+    "name": "Sonora",
+    "artist": "Spendtime Palace",
+    "id": "3cKMtOvz1k5Nh7bulSC15g",
+    "added_at": "2018-11-15T00:49:33Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 318
+  },
+  {
+    "name": "Hunnybee",
+    "artist": "Unknown Mortal Orchestra",
+    "id": "3DPFmwFtV5ElQaTniLOdgk",
+    "added_at": "2018-11-16T04:01:10Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 268
+  },
+  {
+    "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+    "artist": "Talking Heads",
+    "id": "6aBUnkXuCEQQHAlTokv9or",
+    "added_at": "2018-11-27T21:15:52Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 296
+  },
+  {
+    "name": "Wild in the Streets",
+    "artist": "Garland Jeffreys",
+    "id": "1pBhB72Z1uWXOpenHvKcFz",
+    "added_at": "2018-12-01T15:41:07Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 181
+  },
+  {
+    "name": "Red Wine",
+    "artist": "Grapetooth",
+    "id": "33ihZWqvTNPd6MfNDGZTUX",
+    "added_at": "2018-12-05T18:04:46Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 239
+  },
+  {
+    "name": "Violent",
+    "artist": "Grapetooth",
+    "id": "7qILSK74RpSLZJPCgpkIUB",
+    "added_at": "2018-12-05T18:04:55Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 216
+  },
+  {
+    "name": "Keep On Smilin'",
+    "artist": "Wet Willie",
+    "id": "6sHrxsewgTMPs2Di4x636C",
+    "added_at": "2018-12-06T03:53:26Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 237
+  },
+  {
+    "name": "Be Nice",
+    "artist": "Nomads",
+    "id": "7nPq9g8bQVMVQqr9B1h8Wb",
+    "added_at": "2018-12-09T19:45:42Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 160
+  },
+  {
+    "name": "Easy To Get",
+    "artist": "Hot Chip",
+    "id": "22fOsxYglRTjZcTOG8859P",
+    "added_at": "2018-12-27T22:15:00Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 310
+  },
+  {
+    "name": "A Minha Menina",
+    "artist": "Os Mutantes",
+    "id": "0lGEWOZvMexZFXckBJxlVO",
+    "added_at": "2019-01-08T16:55:45Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 284
+  },
+  {
+    "name": "Darlin' - Remastered 2001",
+    "artist": "The Beach Boys",
+    "id": "4BcAcEbp6j6luowfAliUfW",
+    "added_at": "2019-01-10T18:47:55Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 134
+  },
+  {
+    "name": "Psychic City - Classixx Remix",
+    "artist": "YACHT, Classixx",
+    "id": "1GdkQKNGLMtPaUvtcjOeSj",
+    "added_at": "2019-03-24T21:19:28Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 251
+  },
+  {
+    "name": "Trouble",
+    "artist": "Grapetooth",
+    "id": "4C3y57qIj3vMFxh0fRnEPj",
+    "added_at": "2019-03-24T21:21:57Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 192
+  },
+  {
+    "name": "Bad Bad News",
+    "artist": "Leon Bridges",
+    "id": "7FxzgizJRGTQ3fxUqfvljg",
+    "added_at": "2019-03-24T21:22:06Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 207
+  },
+  {
+    "name": "Wide Awake",
+    "artist": "Parquet Courts",
+    "id": "7COxY38TB5HTeXRAucOEW4",
+    "added_at": "2019-03-24T21:22:15Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 158
+  },
+  {
+    "name": "Pressure",
+    "artist": "Vodi",
+    "id": "09HWwbr6LTdNun3SV106qn",
+    "added_at": "2019-03-24T21:22:20Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 298
+  },
+  {
+    "name": "Marcel",
+    "artist": "Her's",
+    "id": "5u9cuDcYdOpSRB7fAYXXdp",
+    "added_at": "2019-03-24T21:22:26Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 187
+  },
+  {
+    "name": "Leave It In My Dreams",
+    "artist": "The Voidz",
+    "id": "31u6rUeIEXGrYVoh10U7eu",
+    "added_at": "2019-03-24T21:22:34Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 239
+  },
+  {
+    "name": "What Once Was",
+    "artist": "Her's",
+    "id": "1XrSjpNe49IiygZfzb74pk",
+    "added_at": "2019-04-08T13:26:48Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 255
+  },
+  {
+    "name": "Threw My Love Away",
+    "artist": "Okey Dokey",
+    "id": "0fJjXLfUTq7ATMicpFMbaK",
+    "added_at": "2019-04-08T14:55:12Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 211
+  },
+  {
+    "name": "You And Me",
+    "artist": "Penny & The Quarters",
+    "id": "3ue9zcwNcoYvFqKVjG0C6r",
+    "added_at": "2019-04-10T13:50:56Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 160
+  },
+  {
+    "name": "What Is Love? Tell Me, Is It Easy?",
+    "artist": "Hala",
+    "id": "4Sr6N2pJXCb5VjdknAjblG",
+    "added_at": "2019-04-18T16:38:08Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 230
+  },
+  {
+    "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
+    "artist": "Kali Uchis, Tyler, The Creator, Bootsy Collins",
+    "id": "1otG6j1WHNvl9WgXLWkHTo",
+    "added_at": "2019-04-20T00:09:17Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 207
+  },
+  {
+    "name": "Love/Paranoia",
+    "artist": "Tame Impala",
+    "id": "5h9hkYIBWTZYFRmF6Iz1gt",
+    "added_at": "2019-04-26T02:46:18Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 185
+  },
+  {
+    "name": "Suddenly",
+    "artist": "Drugdealer, Weyes Blood",
+    "id": "77iRifbhkJGvGBBRNykUwN",
+    "added_at": "2019-04-26T02:46:50Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 197
+  },
+  {
+    "name": "Chinese New Year",
+    "artist": "SALES",
+    "id": "6axvnGwB3rtoriGI1lPhTz",
+    "added_at": "2019-05-19T12:43:47Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 160
+  },
+  {
+    "name": "Two Weeks",
+    "artist": "Grizzly Bear",
+    "id": "0iTpQYzJnYgh7kIxyq8A2O",
+    "added_at": "2019-06-01T12:34:40Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 243
+  },
+  {
+    "name": "We Don't Care",
+    "artist": "Kanye West",
+    "id": "0IW0qaeyxL5Et4UG2MrJKB",
+    "added_at": "2019-06-11T18:23:36Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 239
+  },
+  {
+    "name": "Remember Me",
+    "artist": "Tame Impala",
+    "id": "48HSUrDZQPVeWuVckLb902",
+    "added_at": "2019-06-12T21:35:50Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 261
+  },
+  {
+    "name": "Blood",
+    "artist": "Grapetooth",
+    "id": "4hXpOrL4cwf40Slfntq5tn",
+    "added_at": "2019-06-12T21:38:38Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 257
+  },
+  {
+    "name": "Only You (feat. Tame Impala)",
+    "artist": "Theophilus London, Tame Impala",
+    "id": "3KdPnZiYzQJJ5itDr8BjMM",
+    "added_at": "2019-06-12T21:38:59Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 215
+  },
+  {
+    "name": "Patience",
+    "artist": "Tame Impala",
+    "id": "2drEUEg0TYQR6dDEHkpuPE",
+    "added_at": "2019-06-12T21:40:08Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 292
+  },
+  {
+    "name": "Sunflower (feat. Steve Lacy)",
+    "artist": "Vampire Weekend, Steve Lacy",
+    "id": "2nBkgxlht8knPvUQN5Tmdk",
+    "added_at": "2019-06-12T21:40:31Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 137
+  },
+  {
+    "name": "Night Ride",
+    "artist": "The Growlers",
+    "id": "2ZQ3CJY6iddn38oOoPGKfb",
+    "added_at": "2019-06-12T21:40:45Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 251
+  },
+  {
+    "name": "Locket",
+    "artist": "Crumb",
+    "id": "26AhgCPP2OKAnF4AyBf2Kg",
+    "added_at": "2019-06-12T21:40:51Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 318
+  },
+  {
+    "name": "Cool",
+    "artist": "Zack Villere",
+    "id": "4PevTpnIWy2D1wIQZY3MmX",
+    "added_at": "2019-06-12T21:41:05Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 125
+  },
+  {
+    "name": "Lo/Hi",
+    "artist": "The Black Keys",
+    "id": "6XRgC4KAp4upKu0v7H4tQo",
+    "added_at": "2019-06-12T21:41:17Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 177
+  },
+  {
+    "name": "King James",
+    "artist": "Anderson .Paak",
+    "id": "0TtSoFrbLGjmpIgY4KgBeq",
+    "added_at": "2019-06-12T21:41:47Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 197
+  },
+  {
+    "name": "Choo Choo",
+    "artist": "Mac DeMarco",
+    "id": "6AkGsHilWb1yv6tGkERpMp",
+    "added_at": "2019-06-12T21:42:00Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 159
+  },
+  {
+    "name": "Playground",
+    "artist": "Steve Lacy",
+    "id": "2fQNhjH4HIX5uGvY7Z6Oac",
+    "added_at": "2019-06-12T21:42:09Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 213
+  },
+  {
+    "name": "Go",
+    "artist": "The Black Keys",
+    "id": "1IWom0fqK0dJKITk1H95BB",
+    "added_at": "2019-06-12T21:42:21Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 146
+  },
+  {
+    "name": "What If?",
+    "artist": "The Murlocs",
+    "id": "6CyXUPn9G77SeIKsMpUd90",
+    "added_at": "2019-06-12T21:42:40Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 224
+  },
+  {
+    "name": "Finally Alone",
+    "artist": "Mac DeMarco",
+    "id": "7JyhhEb1LKIuDiHy6bWdet",
+    "added_at": "2019-06-12T21:42:57Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 144
+  },
+  {
+    "name": "Borderline",
+    "artist": "Tame Impala",
+    "id": "3O8X1DE9btbzy4UH9cSX9a",
+    "added_at": "2019-06-12T21:43:37Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 274
+  },
+  {
+    "name": "Nameless, Faceless",
+    "artist": "Courtney Barnett",
+    "id": "74T1h22lE7yxUyu2UH8MNa",
+    "added_at": "2019-06-12T21:44:13Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 194
+  },
+  {
+    "name": "Honeypie",
+    "artist": "JAWNY",
+    "id": "6JqYhSdTE4WbQrMXxPH5cD",
+    "added_at": "2019-06-16T15:03:46Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 135
+  },
+  {
+    "name": "Long Gone",
+    "artist": "Phum Viphurit",
+    "id": "2kxsu1pjmfjAq4qsf52j87",
+    "added_at": "2019-06-16T16:00:16Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 213
+  },
+  {
+    "name": "May I Have This Dance (Remix) [feat. Chance the Rapper]",
+    "artist": "Francis and the Lights, Chance the Rapper",
+    "id": "0VaIsQoIQY10uxBrOyZ5cQ",
+    "added_at": "2019-07-19T20:38:26Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 195
+  },
+  {
+    "name": "Wait a Minute!",
+    "artist": "WILLOW",
+    "id": "0y60itmpH0aPKsFiGxmtnh",
+    "added_at": "2019-07-19T20:51:54Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 196
+  },
+  {
+    "name": "Feels Like We Only Go Backwards",
+    "artist": "Tame Impala",
+    "id": "0LtOwyZoSNZKJWHqjzADpW",
+    "added_at": "2019-08-06T00:24:43Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 192
+  },
+  {
+    "name": "K",
+    "artist": "Mac DeMarco",
+    "id": "0SMxKocTYMTE8C4dktdlRX",
+    "added_at": "2019-08-06T00:25:27Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 213
+  },
+  {
+    "name": "Lovers Rock",
+    "artist": "TV Girl",
+    "id": "1H7zdcRD0gLGQY0w5ejGgX",
+    "added_at": "2019-08-06T00:25:28Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 213
+  },
+  {
+    "name": "Blue Coupe",
+    "artist": "Twin Peaks",
+    "id": "3jw5KrLTxeIzpSvByNsH7F",
+    "added_at": "2019-08-06T00:25:37Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 222
+  },
+  {
+    "name": "First Time",
+    "artist": "Vodi",
+    "id": "2m386Yi6RFXVo4fOMFbdQD",
+    "added_at": "2019-08-06T00:25:53Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 287
+  },
+  {
+    "name": "Get in My Car",
+    "artist": "BRONCHO",
+    "id": "45dD9G6V7rJSuVeemdcVO2",
+    "added_at": "2019-08-06T00:26:08Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 214
+  },
+  {
+    "name": "Sorry",
+    "artist": "Hala",
+    "id": "7Hs4BDVWvKvKzfr5A0pI9K",
+    "added_at": "2019-08-06T00:26:35Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 211
+  },
+  {
+    "name": "Bambina",
+    "artist": "Vampire Weekend",
+    "id": "528bxUV84T4T8HHBFSpcaV",
+    "added_at": "2019-08-06T00:26:59Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 102
+  },
+  {
+    "name": "Tenderness",
+    "artist": "Parquet Courts",
+    "id": "2wF5p2dfUbEiqAnCRVNwmK",
+    "added_at": "2019-08-06T00:27:13Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 186
+  },
+  {
+    "name": "Chevrolet Van",
+    "artist": "The Nude Party",
+    "id": "5QpkOt3hpNf4zns6FJ7JRH",
+    "added_at": "2019-08-06T00:28:05Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 258
+  },
+  {
+    "name": "Another Weekend",
+    "artist": "Ariel Pink",
+    "id": "2gPFK3pmM7zzws174NrjkG",
+    "added_at": "2019-09-30T12:20:36Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 254
+  },
+  {
+    "name": "Man in the Sixties",
+    "artist": "Balue",
+    "id": "1s9U4QrS2iqXEPuKK7PPLS",
+    "added_at": "2019-11-14T17:18:55Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 222
+  },
+  {
+    "name": "Pop Therapy",
+    "artist": "Video Age",
+    "id": "46mzEe4J7UwcTHTwDnWwnX",
+    "added_at": "2019-11-23T18:21:53Z",
+    "added_by": "emmawinagle",
+    "length_seconds": 180
+  }
+]
