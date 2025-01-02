@@ -3057,7 +3057,7 @@
   },
   {
     "name": "Magnan Imus (Instrumental)",
-    "artist": "Two Steps from Hell",
+    "artist": "Nick Phoenix, Two Steps from Hell",
     "id": "470y9KAN03DX61sRerntQz",
     "added_at": "2019-02-15T08:37:26Z",
     "added_by": "1214496633",
@@ -4816,14 +4816,6 @@
     "length_seconds": 190
   },
   {
-    "name": "Evil Gypsy Woman - Original Mix",
-    "artist": "Antichrist, Martin Mentzoni",
-    "id": "2WdINXmEoMC5FzkMqFI8tz",
-    "added_at": "2019-04-18T15:16:46Z",
-    "added_by": "1214496633",
-    "length_seconds": 220
-  },
-  {
     "name": "Dirty Angel",
     "artist": "Courtney Jena\u00e9",
     "id": "3H1bEsU5icroUuv3H8YCuc",
@@ -5678,14 +5670,6 @@
     "added_at": "2019-08-09T21:28:48Z",
     "added_by": "1214496633",
     "length_seconds": 197
-  },
-  {
-    "name": "The Nothing",
-    "artist": "SWARM",
-    "id": "5QpCg5ZDY2gZ7m9mGCiWEI",
-    "added_at": "2019-08-09T21:38:35Z",
-    "added_by": "1214496633",
-    "length_seconds": 327
   },
   {
     "name": "Dawn",
@@ -18942,5 +18926,189 @@
     "added_at": "2024-12-04T23:50:53Z",
     "added_by": "1214496633",
     "length_seconds": 215
+  },
+  {
+    "name": "Highwayman",
+    "artist": "The Highwaymen, Willie Nelson, Johnny Cash, Waylon Jennings, Kris Kristofferson",
+    "id": "7jWbXvrgdbkajU8L28ahn5",
+    "added_at": "2024-12-11T13:41:20Z",
+    "added_by": "1214496633",
+    "length_seconds": 182
+  },
+  {
+    "name": "Good Bi",
+    "artist": "Beth McCarthy",
+    "id": "7eCK4VleezcD6KZNE0Adgk",
+    "added_at": "2024-12-11T17:12:43Z",
+    "added_by": "1214496633",
+    "length_seconds": 194
+  },
+  {
+    "name": "I Got Heaven",
+    "artist": "Mannequin Pussy",
+    "id": "4C6EPbxGiGSX95nJY3z9ZG",
+    "added_at": "2024-12-11T17:16:13Z",
+    "added_by": "1214496633",
+    "length_seconds": 178
+  },
+  {
+    "name": "Stone Cold Crazy - Remastered 2011",
+    "artist": "Queen",
+    "id": "1v870eS7JuHSeBNBFsVz3b",
+    "added_at": "2024-12-24T02:47:14Z",
+    "added_by": "1214496633",
+    "length_seconds": 133
+  },
+  {
+    "name": "Midnight Show",
+    "artist": "The Killers",
+    "id": "4gAhDQjQT9rReQk5NoaiED",
+    "added_at": "2024-12-24T02:55:23Z",
+    "added_by": "1214496633",
+    "length_seconds": 243
+  },
+  {
+    "name": "Living Dead",
+    "artist": "MARINA",
+    "id": "4TSmV8D9i5uTXZzqoD5eSu",
+    "added_at": "2024-12-24T03:04:30Z",
+    "added_by": "1214496633",
+    "length_seconds": 244
+  },
+  {
+    "name": "Lonely Hearts Club",
+    "artist": "MARINA",
+    "id": "5WPXi7JQsDFEOAFGC8w8JU",
+    "added_at": "2024-12-24T03:10:06Z",
+    "added_by": "1214496633",
+    "length_seconds": 181
+  },
+  {
+    "name": "Disease",
+    "artist": "Lady Gaga",
+    "id": "19KlZwqlT3fguP2BeHF1Q1",
+    "added_at": "2024-12-24T03:15:14Z",
+    "added_by": "1214496633",
+    "length_seconds": 229
+  },
+  {
+    "name": "Nantosvelta",
+    "artist": "Eluveitie",
+    "id": "4dOorwnIInhOMpKYu8V0P3",
+    "added_at": "2024-12-24T03:21:30Z",
+    "added_by": "1214496633",
+    "length_seconds": 165
+  },
+  {
+    "name": "Catvrix",
+    "artist": "Eluveitie",
+    "id": "1e43CafMrzU7ygA2z1aw8s",
+    "added_at": "2024-12-24T03:24:22Z",
+    "added_by": "1214496633",
+    "length_seconds": 164
+  },
+  {
+    "name": "Sogno di Volare (\u201cThe Dream of Flight\u201d)",
+    "artist": "Christopher Tin",
+    "id": "1miPwGI7xUKfHj6vIpMfP3",
+    "added_at": "2024-12-24T03:28:42Z",
+    "added_by": "1214496633",
+    "length_seconds": 233
+  },
+  {
+    "name": "Vengan, Vengan (Ya Habaybi, Ya Ghaybine)",
+    "artist": "Alabina",
+    "id": "5G7uKavj1pvbEeW5uDXLJn",
+    "added_at": "2024-12-24T03:36:50Z",
+    "added_by": "1214496633",
+    "length_seconds": 261
+  },
+  {
+    "name": "Salma Ya Salama (Ol\u00e9 Y Ola)",
+    "artist": "Alabina",
+    "id": "0VU8U2XiOTy252BfJzi4Kx",
+    "added_at": "2024-12-24T03:40:24Z",
+    "added_by": "1214496633",
+    "length_seconds": 210
+  },
+  {
+    "name": "Girls",
+    "artist": "The Dare",
+    "id": "6WpZwkzyjINc6wDghg8Gzv",
+    "added_at": "2024-12-24T03:44:58Z",
+    "added_by": "1214496633",
+    "length_seconds": 119
+  },
+  {
+    "name": "\u0421\u0430\u043c\u043e \u0428\u0430\u043c\u043f\u0438\u043e\u043d\u0438",
+    "artist": "Stoyan Yankoulov, Elitsa Todorova",
+    "id": "3thI8DuOGce7DohbcGkMa0",
+    "added_at": "2024-12-24T20:57:31Z",
+    "added_by": "1214496633",
+    "length_seconds": 178
+  },
+  {
+    "name": "Lolole (Don't Let Me Be Misunderstood)",
+    "artist": "Alabina",
+    "id": "17tXTFbxwLk0SFG7UbyM7v",
+    "added_at": "2024-12-25T04:09:11Z",
+    "added_by": "1214496633",
+    "length_seconds": 222
+  },
+  {
+    "name": "Love Love Peace Peace",
+    "artist": "M\u00e5ns Zelmerl\u00f6w, Petra Mede",
+    "id": "7eYAvYuZsa9IeQ4VCdls83",
+    "added_at": "2024-12-25T04:17:46Z",
+    "added_by": "1214496633",
+    "length_seconds": 270
+  },
+  {
+    "name": "Only Teardrops",
+    "artist": "Emmelie de Forest",
+    "id": "3yRwgprKX3If2zcuGfKFBu",
+    "added_at": "2024-12-25T04:27:37Z",
+    "added_by": "1214496633",
+    "length_seconds": 183
+  },
+  {
+    "name": "El Diablo",
+    "artist": "Elena Tsagrinou",
+    "id": "4TAttqXwjj56xZQVKvlX0K",
+    "added_at": "2024-12-25T04:31:17Z",
+    "added_by": "1214496633",
+    "length_seconds": 181
+  },
+  {
+    "name": "Mata Hari",
+    "artist": "Efendi",
+    "id": "3wuvVwA5RaifHz1uqKac8P",
+    "added_at": "2024-12-25T04:34:41Z",
+    "added_by": "1214496633",
+    "length_seconds": 160
+  },
+  {
+    "name": "Cleopatra",
+    "artist": "Efendi",
+    "id": "6Rt5DJgi7E2wETXueJF0XM",
+    "added_at": "2024-12-25T04:36:49Z",
+    "added_by": "1214496633",
+    "length_seconds": 180
+  },
+  {
+    "name": "La Venda",
+    "artist": "Miki N\u00fa\u00f1ez",
+    "id": "3fCyP5h59OZOgfqQbeO1lJ",
+    "added_at": "2024-12-25T04:43:16Z",
+    "added_by": "1214496633",
+    "length_seconds": 183
+  },
+  {
+    "name": "Karma",
+    "artist": "Anxhela Peristeri",
+    "id": "7Ca1YA47yXQByUTX2jHMlN",
+    "added_at": "2024-12-25T04:46:07Z",
+    "added_by": "1214496633",
+    "length_seconds": 179
   }
 ]
